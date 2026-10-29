@@ -1,0 +1,15 @@
+# datasets and generated images (too big, and covered by their own licences)
+Data/*
+!Data/generate_objects_dataset.py
+removed_people_photos/
+demo_checked/
+processed_data/person_filter_cache.json
+processed_data/*.jpg
+# python
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+# old or broken runs
+results_run3_crops_SHORTCUT/
+results_run5_coco/

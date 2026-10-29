@@ -1,0 +1,153 @@
+"""
+Train the consistency model on processed_data/*.csv and evaluate on the test split.
+Run from the FYP folder:  python3 training/train.py --epochs 15
+"""
+
+import argparse
+import csv
+import json
+import random
+import time
+from collections import Counter, defaultdict
+from pathlib import Path
+
+import numpy as np
+import torch
+import torch.nn as nn
+from PIL import Image
+from torch.utils.data import DataLoader, Dataset
+
+from model import ConsistencyModel, encode, preprocess, tokenize, IMAGE_SIZE, MAX_TOKENS
+
+ROOT = Path(__file__).resolve().parent.parent   # the FYP folder
+DATA = ROOT / "Data"
+CSV_DIR = ROOT / "processed_data"
+RESULTS = ROOT / "results"
+
+
+def read_rows(split):
+    with open(CSV_DIR / f"{split}.csv", newline="") as f:
+        return list(csv.DictReader(f))
+
+
+def build_vocab(rows):
+    counts = Counter(w for r in rows for w in tokenize(r["caption"]))
+    vocab = {"<pad>": 0, "<unk>": 1}
+    for word, _ in counts.most_common():
+        vocab[word] = len(vocab)
+    return vocab
+
+
+class PairDataset(Dataset):
+    def __init__(self, rows, vocab):
+        self.rows, self.vocab = rows, vocab
+
+    def __len__(self):
+        return len(self.rows)
+
+    def __getitem__(self, i):
+        r = self.rows[i]
+        with Image.open(DATA / r["image_path"]) as im:
+            image = preprocess(im)
+        tokens = torch.tensor(encode(r["caption"], self.vocab), dtype=torch.long)
+        return image, tokens, torch.tensor(float(r["label"])), i
+
+
+def run_epoch(model, loader, loss_fn, device, optimizer=None):
+    training = optimizer is not None
+    model.train(training)
+    total_loss, scores, labels, indices = 0.0, [], [], []
+    with torch.set_grad_enabled(training):
+        for images, tokens, y, idx in loader:
+            images, tokens, y = images.to(device), tokens.to(device), y.to(device)
+            logits = model(images, tokens)
+            loss = loss_fn(logits, y)
+            if training:
+                optimizer.zero_grad()
+                loss.backward()
+                optimizer.step()
+            total_loss += loss.item() * len(y)
+            scores += torch.sigmoid(logits).detach().cpu().tolist()
+            labels += y.cpu().tolist()
+            indices += idx.tolist()
+    acc = float(np.mean((np.array(scores) >= 0.5) == (np.array(labels) == 1)))
+    return total_loss / len(labels), acc, scores, indices
+
+
+def main():
+    p = argparse.ArgumentParser()
+    p.add_argument("--epochs", type=int, default=15)
+    p.add_argument("--batch-size", type=int, default=64)
+    p.add_argument("--lr", type=float, default=1e-3)
+    p.add_argument("--seed", type=int, default=42)
+    args = p.parse_args()
+
+    random.seed(args.seed)
+    np.random.seed(args.seed)
+    torch.manual_seed(args.seed)
+    device = torch.device("mps" if torch.backends.mps.is_available()
+                          else "cuda" if torch.cuda.is_available() else "cpu")
+
+    train_rows, val_rows, test_rows = read_rows("train"), read_rows("val"), read_rows("test")
+    print(f"Device: {device}")
+    print(f"Pairs  train {len(train_rows)}  val {len(val_rows)}  test {len(test_rows)}")
+    print("Domains:", dict(Counter(r["domain"] for r in train_rows)))
+
+    vocab = build_vocab(train_rows)
+    loaders = {
+        name: DataLoader(PairDataset(rows, vocab), batch_size=args.batch_size,
+                         shuffle=(name == "train"), num_workers=0)
+        for name, rows in (("train", train_rows), ("val", val_rows), ("test", test_rows))}
+
+    model = ConsistencyModel(len(vocab)).to(device)
+    loss_fn = nn.BCEWithLogitsLoss()
+    optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, weight_decay=1e-4)
+    RESULTS.mkdir(exist_ok=True)
+
+    best_val, history = float("inf"), []
+    for epoch in range(1, args.epochs + 1):
+        start = time.time()
+        tr_loss, tr_acc, _, _ = run_epoch(model, loaders["train"], loss_fn, device, optimizer)
+        va_loss, va_acc, _, _ = run_epoch(model, loaders["val"], loss_fn, device)
+        history.append({"epoch": epoch, "train_loss": tr_loss, "train_acc": tr_acc,
+                        "val_loss": va_loss, "val_acc": va_acc})
+        mark = ""
+        if va_loss < best_val:
+            best_val, mark = va_loss, "  <- best, saved"
+            torch.save({"state_dict": model.state_dict(), "vocab": vocab, "epoch": epoch,
+                        "image_size": IMAGE_SIZE, "max_tokens": MAX_TOKENS, "threshold": 0.5},
+                       RESULTS / "model.pt")
+        print(f"Epoch {epoch:2d}  train loss {tr_loss:.3f} acc {tr_acc:.3f}  |  "
+              f"val loss {va_loss:.3f} acc {va_acc:.3f}  ({time.time() - start:.0f}s){mark}")
+
+    checkpoint = torch.load(RESULTS / "model.pt", map_location=device)
+    model.load_state_dict(checkpoint["state_dict"])
+    te_loss, te_acc, scores, indices = run_epoch(model, loaders["test"], loss_fn, device)
+
+    per_domain = defaultdict(lambda: [0, 0])
+    with open(RESULTS / "test_predictions.csv", "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["image_path", "caption", "domain", "attribute", "label", "score", "prediction"])
+        for score, i in zip(scores, indices):
+            r = test_rows[i]
+            pred = int(score >= 0.5)
+            per_domain[r["domain"]][0] += int(pred == int(r["label"]))
+            per_domain[r["domain"]][1] += 1
+            w.writerow([r["image_path"], r["caption"], r["domain"], r["attribute"],
+                        r["label"], f"{score:.4f}", pred])
+
+    domain_acc = {d: round(c / n, 4) for d, (c, n) in sorted(per_domain.items())}
+    metrics = {"best_epoch": checkpoint["epoch"], "test_accuracy": round(te_acc, 4),
+               "test_accuracy_by_domain": domain_acc, "history": history}
+    with open(RESULTS / "metrics.json", "w") as f:
+        json.dump(metrics, f, indent=2)
+
+    print(f"\nBest epoch: {checkpoint['epoch']}")
+    print(f"TEST accuracy: {te_acc:.3f}  (50% = guessing)")
+    for d, a in domain_acc.items():
+        print(f"  {d:10} {a:.3f}")
+    print("\nSaved results/model.pt, results/metrics.json, results/test_predictions.csv")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,238 @@
+{
+  "best_epoch": 15,
+  "test_accuracy": 0.7238,
+  "test_accuracy_by_domain": {
+    "cars": 0.5457,
+    "cats": 0.5356,
+    "dogs": 0.6222,
+    "flowers": 0.7711,
+    "objects": 0.9541
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6776692427932777,
+      "train_acc": 0.5519175301783997,
+      "aux_loss": 2.1263695424113207,
+      "val_loss": 0.6236439005989683,
+      "val_acc": 0.5957605985037406,
+      "val_acc_by_domain": {
+        "cars": 0.5302,
+        "cats": 0.6644,
+        "dogs": 0.4489,
+        "flowers": 0.6489,
+        "objects": 0.6948
+      }
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.6220429725670404,
+      "train_acc": 0.6022860805469501,
+      "aux_loss": 1.9832027763424362,
+      "val_loss": 0.6243054494001622,
+      "val_acc": 0.5940149625935162,
+      "val_acc_by_domain": {
+        "cars": 0.514,
+        "cats": 0.3689,
+        "dogs": 0.5822,
+        "flowers": 0.66,
+        "objects": 0.7059
+      }
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.6113709552002035,
+      "train_acc": 0.6157995940604636,
+      "aux_loss": 1.9374628895025148,
+      "val_loss": 0.6115902659601702,
+      "val_acc": 0.6089775561097257,
+      "val_acc_by_domain": {
+        "cars": 0.5244,
+        "cats": 0.4978,
+        "dogs": 0.5067,
+        "flowers": 0.7089,
+        "objects": 0.7348
+      }
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.5990174787317811,
+      "train_acc": 0.6256276038884735,
+      "aux_loss": 1.904786360771938,
+      "val_loss": 0.6049722030275778,
+      "val_acc": 0.614713216957606,
+      "val_acc_by_domain": {
+        "cars": 0.5233,
+        "cats": 0.5089,
+        "dogs": 0.5344,
+        "flowers": 0.7044,
+        "objects": 0.7319
+      }
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.5902382800395947,
+      "train_acc": 0.6362568101698537,
+      "aux_loss": 1.8762515992031255,
+      "val_loss": 0.6073261524673709,
+      "val_acc": 0.6172069825436409,
+      "val_acc_by_domain": {
+        "cars": 0.5256,
+        "cats": 0.6511,
+        "dogs": 0.45,
+        "flowers": 0.7267,
+        "objects": 0.7393
+      }
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.578899199000384,
+      "train_acc": 0.6464052985792116,
+      "aux_loss": 1.8360011538638097,
+      "val_loss": 0.5943739019724497,
+      "val_acc": 0.6438902743142144,
+      "val_acc_by_domain": {
+        "cars": 0.5442,
+        "cats": 0.4867,
+        "dogs": 0.5956,
+        "flowers": 0.7467,
+        "objects": 0.7578
+      }
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.5617267822890745,
+      "train_acc": 0.6592244418331374,
+      "aux_loss": 1.7821690845713631,
+      "val_loss": 0.5899348635328678,
+      "val_acc": 0.6448877805486284,
+      "val_acc_by_domain": {
+        "cars": 0.5407,
+        "cats": 0.4644,
+        "dogs": 0.58,
+        "flowers": 0.7444,
+        "objects": 0.7815
+      }
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.5514442297195142,
+      "train_acc": 0.6659010789445572,
+      "aux_loss": 1.7363682542266454,
+      "val_loss": 0.6048959953529282,
+      "val_acc": 0.6379052369077307,
+      "val_acc_by_domain": {
+        "cars": 0.543,
+        "cats": 0.6711,
+        "dogs": 0.4556,
+        "flowers": 0.7,
+        "objects": 0.7881
+      }
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.5407863897545548,
+      "train_acc": 0.6766905245166115,
+      "aux_loss": 1.6977742536367737,
+      "val_loss": 0.5743549155772772,
+      "val_acc": 0.6508728179551122,
+      "val_acc_by_domain": {
+        "cars": 0.5314,
+        "cats": 0.6689,
+        "dogs": 0.4867,
+        "flowers": 0.7644,
+        "objects": 0.7926
+      }
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.5337307927776842,
+      "train_acc": 0.6789872876829398,
+      "aux_loss": 1.6714910585494929,
+      "val_loss": 0.5725057872156253,
+      "val_acc": 0.6546134663341646,
+      "val_acc_by_domain": {
+        "cars": 0.5465,
+        "cats": 0.7644,
+        "dogs": 0.4333,
+        "flowers": 0.7378,
+        "objects": 0.8067
+      }
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.5230476723026992,
+      "train_acc": 0.6908984082897126,
+      "aux_loss": 1.6469848063521604,
+      "val_loss": 0.5653154247122215,
+      "val_acc": 0.6673316708229426,
+      "val_acc_by_domain": {
+        "cars": 0.5663,
+        "cats": 0.4978,
+        "dogs": 0.5767,
+        "flowers": 0.7511,
+        "objects": 0.8207
+      }
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.509774070757218,
+      "train_acc": 0.7022753979275719,
+      "aux_loss": 1.6201892379842855,
+      "val_loss": 0.5643392774529588,
+      "val_acc": 0.6718204488778055,
+      "val_acc_by_domain": {
+        "cars": 0.5558,
+        "cats": 0.4711,
+        "dogs": 0.5844,
+        "flowers": 0.7711,
+        "objects": 0.8378
+      }
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.47852367655854744,
+      "train_acc": 0.7317594274116013,
+      "aux_loss": 1.5531487638605748,
+      "val_loss": 0.5319023113298297,
+      "val_acc": 0.7077306733167082,
+      "val_acc_by_domain": {
+        "cars": 0.5895,
+        "cats": 0.5556,
+        "dogs": 0.5556,
+        "flowers": 0.7844,
+        "objects": 0.9096
+      }
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.4591617281588972,
+      "train_acc": 0.7417476765302852,
+      "aux_loss": 1.5016844110755811,
+      "val_loss": 0.5460282208616299,
+      "val_acc": 0.6955112219451371,
+      "val_acc_by_domain": {
+        "cars": 0.5663,
+        "cats": 0.5711,
+        "dogs": 0.5578,
+        "flowers": 0.7533,
+        "objects": 0.8919
+      }
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.44687574938530217,
+      "train_acc": 0.7556884948189296,
+      "aux_loss": 1.4570411037092166,
+      "val_loss": 0.5168697777531688,
+      "val_acc": 0.7184538653366583,
+      "val_acc_by_domain": {
+        "cars": 0.5512,
+        "cats": 0.5111,
+        "dogs": 0.61,
+        "flowers": 0.78,
+        "objects": 0.9459
+      }
+    }
+  ]
+}

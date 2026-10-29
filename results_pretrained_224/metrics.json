@@ -1,0 +1,307 @@
+{
+  "backbone": "resnet18",
+  "image_size": 224,
+  "best_epoch": 15,
+  "test_accuracy": 0.9534,
+  "test_accuracy_by_domain": {
+    "cars": 0.8953,
+    "cats": 0.9767,
+    "dogs": 0.9572,
+    "flowers": 0.9411,
+    "objects": 1.0
+  },
+  "test_accuracy_by_claim": {
+    "cars/body type": 0.9155,
+    "cars/make": 0.8767,
+    "cats/animal": 0.9767,
+    "dogs/animal": 0.99,
+    "dogs/breed": 0.9244,
+    "flowers/species": 0.9411,
+    "objects/colour": 1.0,
+    "objects/position": 1.0,
+    "objects/shape": 1.0
+  },
+  "pick_one_accuracy": {
+    "cars/body type": {
+      "accuracy": 0.8357,
+      "photos": 414,
+      "options": 8,
+      "chance": 0.125
+    },
+    "cars/make": {
+      "accuracy": 0.7089,
+      "photos": 450,
+      "options": 49,
+      "chance": 0.0204
+    },
+    "cats/animal": {
+      "accuracy": 0.9756,
+      "photos": 450,
+      "options": 2,
+      "chance": 0.5
+    },
+    "dogs/animal": {
+      "accuracy": 0.9911,
+      "photos": 450,
+      "options": 2,
+      "chance": 0.5
+    },
+    "dogs/breed": {
+      "accuracy": 0.6022,
+      "photos": 450,
+      "options": 120,
+      "chance": 0.0083
+    },
+    "flowers/species": {
+      "accuracy": 0.9156,
+      "photos": 450,
+      "options": 102,
+      "chance": 0.0098
+    },
+    "objects/colour": {
+      "accuracy": 1.0,
+      "photos": 300,
+      "options": 6,
+      "chance": 0.1667
+    },
+    "objects/position": {
+      "accuracy": 1.0,
+      "photos": 300,
+      "options": 3,
+      "chance": 0.3333
+    },
+    "objects/shape": {
+      "accuracy": 1.0,
+      "photos": 300,
+      "options": 5,
+      "chance": 0.2
+    }
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.315992565873709,
+      "train_acc": 0.8540740295637543,
+      "aux_loss": 1.1917443436479471,
+      "val_loss": 0.2428626962955717,
+      "val_acc": 0.9020213363279057,
+      "val_acc_by_domain": {
+        "cars": 0.8074,
+        "cats": 0.9867,
+        "dogs": 0.8711,
+        "flowers": 0.8656,
+        "objects": 0.9994
+      }
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.14813097712405096,
+      "train_acc": 0.9468212955173657,
+      "aux_loss": 0.5070998659215284,
+      "val_loss": 0.16952213003252545,
+      "val_acc": 0.937394722066255,
+      "val_acc_by_domain": {
+        "cars": 0.8393,
+        "cats": 0.9867,
+        "dogs": 0.9428,
+        "flowers": 0.94,
+        "objects": 1.0
+      }
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.08320769684011153,
+      "train_acc": 0.9750630933781997,
+      "aux_loss": 0.244543786906176,
+      "val_loss": 0.1650500183173072,
+      "val_acc": 0.9380965749578888,
+      "val_acc_by_domain": {
+        "cars": 0.8469,
+        "cats": 0.9856,
+        "dogs": 0.9422,
+        "flowers": 0.9333,
+        "objects": 1.0
+      }
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.05544149827737244,
+      "train_acc": 0.9881023915394784,
+      "aux_loss": 0.13126985190608384,
+      "val_loss": 0.16404154145821367,
+      "val_acc": 0.9383773161145423,
+      "val_acc_by_domain": {
+        "cars": 0.8515,
+        "cats": 0.9844,
+        "dogs": 0.9456,
+        "flowers": 0.9211,
+        "objects": 1.0
+      }
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.04158707110086122,
+      "train_acc": 0.9933902175219325,
+      "aux_loss": 0.08347096034589689,
+      "val_loss": 0.14432393257484752,
+      "val_acc": 0.9483436271757439,
+      "val_acc_by_domain": {
+        "cars": 0.8811,
+        "cats": 0.9756,
+        "dogs": 0.9556,
+        "flowers": 0.9322,
+        "objects": 1.0
+      }
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.035233539439045655,
+      "train_acc": 0.9951628410046869,
+      "aux_loss": 0.06111794616501,
+      "val_loss": 0.1804288318511444,
+      "val_acc": 0.9331836047164515,
+      "val_acc_by_domain": {
+        "cars": 0.8625,
+        "cats": 0.98,
+        "dogs": 0.9222,
+        "flowers": 0.9367,
+        "objects": 0.9867
+      }
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.028493080342567007,
+      "train_acc": 0.9964847975003004,
+      "aux_loss": 0.04250078622810028,
+      "val_loss": 0.14614275823661546,
+      "val_acc": 0.9448343627175744,
+      "val_acc_by_domain": {
+        "cars": 0.8706,
+        "cats": 0.9889,
+        "dogs": 0.9411,
+        "flowers": 0.94,
+        "objects": 1.0
+      }
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.018332211206154622,
+      "train_acc": 0.9995192885470496,
+      "aux_loss": 0.023371058218373642,
+      "val_loss": 0.1349810879930628,
+      "val_acc": 0.9501684446939921,
+      "val_acc_by_domain": {
+        "cars": 0.8799,
+        "cats": 0.9867,
+        "dogs": 0.9533,
+        "flowers": 0.9422,
+        "objects": 1.0
+      }
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.014010886929319493,
+      "train_acc": 0.9999098666025718,
+      "aux_loss": 0.015757780007703732,
+      "val_loss": 0.13612867032315273,
+      "val_acc": 0.9501684446939921,
+      "val_acc_by_domain": {
+        "cars": 0.8846,
+        "cats": 0.9844,
+        "dogs": 0.9506,
+        "flowers": 0.9411,
+        "objects": 1.0
+      }
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.013944874762622027,
+      "train_acc": 0.9995793774786684,
+      "aux_loss": 0.0157005944762819,
+      "val_loss": 0.14063789794228843,
+      "val_acc": 0.9472206625491297,
+      "val_acc_by_domain": {
+        "cars": 0.8852,
+        "cats": 0.9811,
+        "dogs": 0.9433,
+        "flowers": 0.9378,
+        "objects": 0.9983
+      }
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.012532280643188872,
+      "train_acc": 0.9996695108760966,
+      "aux_loss": 0.012353701919242033,
+      "val_loss": 0.13704423558705311,
+      "val_acc": 0.9501684446939921,
+      "val_acc_by_domain": {
+        "cars": 0.8799,
+        "cats": 0.9944,
+        "dogs": 0.9456,
+        "flowers": 0.95,
+        "objects": 1.0
+      }
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.01101070660110592,
+      "train_acc": 0.999849777670953,
+      "aux_loss": 0.01127710685594167,
+      "val_loss": 0.12789344431592936,
+      "val_acc": 0.954098820887142,
+      "val_acc_by_domain": {
+        "cars": 0.8892,
+        "cats": 0.9889,
+        "dogs": 0.955,
+        "flowers": 0.95,
+        "objects": 1.0
+      }
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.010252511704745967,
+      "train_acc": 0.999849777670953,
+      "aux_loss": 0.010881665057645167,
+      "val_loss": 0.1294697360551337,
+      "val_acc": 0.9524143739472206,
+      "val_acc_by_domain": {
+        "cars": 0.8863,
+        "cats": 0.99,
+        "dogs": 0.9506,
+        "flowers": 0.95,
+        "objects": 1.0
+      }
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.009038728432054489,
+      "train_acc": 0.9999699555341905,
+      "aux_loss": 0.009180931517469985,
+      "val_loss": 0.12842506267326995,
+      "val_acc": 0.9535373385738349,
+      "val_acc_by_domain": {
+        "cars": 0.8863,
+        "cats": 0.9878,
+        "dogs": 0.9556,
+        "flowers": 0.9511,
+        "objects": 1.0
+      }
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.008254503325481187,
+      "train_acc": 1.0,
+      "aux_loss": 0.007378563528421363,
+      "val_loss": 0.12727806065806774,
+      "val_acc": 0.9535373385738349,
+      "val_acc_by_domain": {
+        "cars": 0.8852,
+        "cats": 0.99,
+        "dogs": 0.9561,
+        "flowers": 0.95,
+        "objects": 1.0
+      }
+    }
+  ]
+}

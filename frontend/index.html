@@ -1,0 +1,408 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cross-Modal Inconsistency Detector</title>
+<style>
+  :root { --bg:#F6F6F2; --ink:#16201F; --muted:#4E5A58; --line:#DCE2DF; --card:#FFFFFF; --soft:#F3F6F5;
+          --teal:#0E5A52; --teal-dark:#083C37; --orange:#B4410C; --orange-soft:#FBEDE4; --green-soft:#E3F1EC; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Inter, sans-serif; }
+  .mono { font-family: ui-monospace, "SF Mono", Menlo, monospace; }
+  header { background:var(--ink); color:var(--bg); }
+  .wrap { max-width:1200px; margin:0 auto; padding:0 24px; }
+  .bar { display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:16px; padding:18px 24px; }
+  .brand { display:flex; align-items:center; gap:14px; }
+  .logo { width:40px; height:40px; border-radius:8px; background:var(--teal); display:grid; place-items:center; }
+  .brand b { display:block; font-size:18px; }
+  .brand small { color:#B9C4C1; font-size:12px; }
+  nav { display:flex; gap:6px; }
+  nav button { min-height:42px; padding:0 14px; border-radius:6px; border:1px solid #3A4846; background:transparent; color:var(--bg); font:inherit; font-size:14px; cursor:pointer; }
+  nav button[aria-selected="true"] { background:var(--bg); color:var(--ink); font-weight:600; border-color:var(--bg); }
+  .who { display:flex; gap:20px; align-items:center; flex-wrap:wrap; }
+  .who span { display:block; font-size:10px; letter-spacing:1px; text-transform:uppercase; color:#B9C4C1; }
+  .who b { font-size:14px; }
+  .status { font-size:12px; border:1px solid #2F5F55; color:#9FE3C8; padding:6px 10px; border-radius:999px; }
+  .status.off { color:#F6C6A8; border-color:#6B4A36; }
+  main.wrap { padding:32px 24px 40px; }
+  h1 { margin:0; font-size:28px; letter-spacing:-0.5px; }
+  .lead { margin:6px 0 24px; color:var(--muted); max-width:700px; }
+  .cols { display:flex; flex-wrap:wrap; gap:24px; align-items:flex-start; }
+  .left { flex:999 1 560px; min-width:0; display:flex; flex-direction:column; gap:16px; }
+  .right { flex:1 1 380px; min-width:0; display:flex; flex-direction:column; gap:16px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:20px; }
+  .step { display:flex; align-items:center; gap:10px; margin-bottom:14px; }
+  .step span { font-size:12px; color:var(--teal); border:1px solid #B7D3CD; border-radius:4px; padding:2px 6px; }
+  .step h2 { margin:0; font-size:16px; }
+  .chips { display:flex; flex-wrap:wrap; gap:8px; }
+  .chip { min-height:44px; padding:0 18px; border-radius:999px; border:1px solid #C9D3D0; background:#fff; color:var(--ink); font:inherit; font-size:14px; cursor:pointer; }
+  .chip[aria-pressed="true"] { background:var(--teal); border-color:var(--teal); color:#fff; font-weight:600; }
+  .drop { display:flex; flex-direction:column; align-items:center; justify-content:center; gap:8px; min-height:220px; border:1.5px dashed #9FB3AE; border-radius:10px; background:var(--soft); cursor:pointer; text-align:center; padding:16px; overflow:hidden; }
+  .drop.has { padding:0; border-style:solid; background:#E4EAE8; }
+  .drop img { max-width:100%; max-height:320px; display:block; }
+  .hint { margin:10px 0 0; font-size:13px; color:var(--muted); }
+  .seg { display:inline-flex; background:#EEF2F0; border-radius:8px; padding:3px; }
+  .seg button { min-height:38px; padding:0 12px; border:0; border-radius:6px; background:transparent; color:var(--muted); font:inherit; font-size:13px; cursor:pointer; }
+  .seg button[aria-pressed="true"] { background:#fff; color:var(--ink); font-weight:600; box-shadow:0 1px 2px rgba(0,0,0,.08); }
+  .row { display:flex; flex-wrap:wrap; gap:12px; }
+  .field { display:flex; flex-direction:column; gap:6px; flex:1 1 200px; }
+  label.small { font-size:12px; font-weight:600; color:var(--muted); }
+  select, textarea { min-height:44px; padding:10px 12px; border:1px solid #C9D3D0; border-radius:8px; background:#fff; font:inherit; font-size:14px; color:var(--ink); width:100%; }
+  textarea { resize:vertical; }
+  .sentence { margin-top:14px; padding:14px 16px; background:var(--soft); border-radius:8px; }
+  .sentence span { display:block; font-size:11px; letter-spacing:1px; text-transform:uppercase; color:var(--muted); margin-bottom:4px; }
+  .sentence b { font-size:18px; }
+  .go { margin-top:18px; width:100%; min-height:48px; border:0; border-radius:8px; background:var(--teal); color:#fff; font:inherit; font-size:15px; font-weight:600; cursor:pointer; }
+  .go:hover:enabled { background:var(--teal-dark); }
+  .go:disabled { opacity:.55; cursor:not-allowed; }
+  .note { font-size:12px; color:var(--muted); text-align:center; margin:10px 0 0; }
+  .err { background:#FCEFEC; border:1px solid #F0CFC6; color:#8E3420; border-radius:8px; padding:12px 14px; font-size:14px; }
+  .warn { background:#FFF6E5; border:1px solid #F1D9A6; color:#6B4B0E; border-radius:8px; padding:10px 12px; font-size:13px; margin-top:12px; }
+  .label-sm { font-size:11px; letter-spacing:1px; text-transform:uppercase; color:var(--muted); }
+  .verdict { display:flex; align-items:center; gap:12px; margin-top:10px; }
+  .dot { width:44px; height:44px; border-radius:50%; display:grid; place-items:center; flex:none; }
+  .verdict b { display:block; font-size:26px; letter-spacing:-0.4px; }
+  .meter { position:relative; height:10px; background:#EEF2F0; border-radius:999px; margin-top:6px; }
+  .meter i { display:block; height:10px; border-radius:999px; }
+  .meter .cut { position:absolute; top:-4px; width:2px; height:18px; background:var(--ink); }
+  .scale { display:flex; justify-content:space-between; font-size:11px; color:var(--muted); margin-top:6px; }
+  .rank { display:flex; flex-direction:column; gap:10px; }
+  .rank .top { display:flex; justify-content:space-between; gap:8px; font-size:13px; }
+  .rank .bar2 { height:6px; background:#EEF2F0; border-radius:999px; margin-top:4px; }
+  .rank .bar2 i { display:block; height:6px; border-radius:999px; }
+  .placeholder { color:var(--muted); font-size:14px; }
+  .stats { display:flex; flex-wrap:wrap; gap:16px; margin-bottom:24px; }
+  .stat { flex:1 1 220px; border-radius:12px; padding:20px; background:var(--card); border:1px solid var(--line); }
+  .stat.dark { background:var(--ink); color:var(--bg); border-color:var(--ink); }
+  .stat .big { font-size:44px; font-weight:700; letter-spacing:-1px; margin-top:6px; }
+  .bars { display:flex; flex-direction:column; gap:16px; }
+  .bars .head { display:flex; justify-content:space-between; font-size:14px; margin-bottom:6px; }
+  .track { position:relative; height:14px; background:#EEF2F0; border-radius:4px; }
+  .track i { display:block; height:14px; border-radius:4px; background:var(--teal); }
+  .track .half { position:absolute; left:50%; top:-3px; width:2px; height:20px; background:var(--ink); }
+  table { width:100%; border-collapse:collapse; font-size:14px; }
+  th, td { text-align:left; padding:8px 10px; border-bottom:1px solid var(--line); }
+  th { font-size:12px; color:var(--muted); font-weight:600; }
+  td.num, th.num { text-align:right; }
+  .scroll { overflow-x:auto; }
+  footer { border-top:1px solid var(--line); padding:18px 24px; text-align:center; font-size:12px; color:var(--muted); }
+  [hidden] { display:none !important; }
+  :focus-visible { outline:3px solid #36A994; outline-offset:2px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap bar">
+    <div class="brand">
+      <div class="logo" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#F6F6F2" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="11" height="9" rx="1.5"/><path d="M17 8h4M17 12h4M3 17h18M3 20h12"/></svg></div>
+      <div><b>Cross-Modal Inconsistency Detector</b><small>Custom dual-encoder model · trained from scratch · no people in the data</small></div>
+    </div>
+    <nav role="tablist" aria-label="Pages">
+      <button role="tab" id="tab-check" aria-selected="true" aria-controls="page-check">Check a claim</button>
+      <button role="tab" id="tab-results" aria-selected="false" aria-controls="page-results">Model results</button>
+    </nav>
+    <div class="who">
+      <div><span>Student</span><b>Hamza Javid</b></div>
+      <div><span>Student ID</span><b class="mono" id="student-id"></b></div>
+      <div class="status off" id="status">Loading model…</div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="page-check" role="tabpanel" aria-labelledby="tab-check">
+    <h1>Does the sentence match the photo?</h1>
+    <p class="lead">Pick what the photo shows, upload it, and make one claim about it. The model scores how well the picture and the sentence agree.</p>
+    <div id="load-error" class="err" hidden></div>
+    <div class="cols">
+      <div class="left">
+        <div class="card">
+          <div class="step"><span class="mono">01</span><h2>What is in the photo?</h2></div>
+          <div class="chips" id="domains" role="group" aria-label="Domain"></div>
+        </div>
+        <div class="card">
+          <div class="step"><span class="mono">02</span><h2>Upload the photo</h2></div>
+          <label class="drop" id="drop" for="photo">
+            <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#0E5A52" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 16V4M7 9l5-5 5 5M4 16v4h16v-4"/></svg>
+            <b>Drop a photo here or choose a file</b>
+            <span class="hint" style="margin:0">JPG or PNG, up to 5 MB</span>
+          </label>
+          <input id="photo" type="file" accept="image/png,image/jpeg" hidden>
+          <p class="hint" id="tip"></p>
+        </div>
+        <div class="card">
+          <div class="row" style="justify-content:space-between; align-items:center; margin-bottom:14px">
+            <div class="step" style="margin:0"><span class="mono">03</span><h2>Make one claim</h2></div>
+            <div class="seg" role="group" aria-label="How to write the claim">
+              <button type="button" id="mode-build" aria-pressed="true">Build it</button>
+              <button type="button" id="mode-free" aria-pressed="false">Type it</button>
+            </div>
+          </div>
+          <div id="builder">
+            <div class="row">
+              <div class="field"><label class="small" for="attr">About</label><select id="attr"></select></div>
+              <div class="field" style="flex:2 1 260px"><label class="small" for="claim">Claim</label><select id="claim"></select></div>
+            </div>
+            <div class="sentence"><span>Sentence sent to the model</span><b id="sentence"></b></div>
+          </div>
+          <div id="freebox" hidden>
+            <label class="small" for="free">Your sentence</label>
+            <textarea id="free" rows="3" maxlength="200"></textarea>
+            <p class="hint">Use the same form as the built claims. Words the model never saw in training are flagged.</p>
+          </div>
+          <button class="go" id="go" type="button" disabled>Check photo and claim</button>
+          <p class="note">Photos are checked on this computer and never saved.</p>
+        </div>
+      </div>
+
+      <aside class="right" aria-label="Result">
+        <div class="card" aria-live="polite">
+          <div class="label-sm">Result</div>
+          <div id="result-empty" class="placeholder" style="margin-top:10px">Upload a photo and press <b>Check photo and claim</b>.</div>
+          <div id="result-error" class="err" style="margin-top:10px" hidden></div>
+          <div id="result" hidden>
+            <div class="verdict">
+              <div class="dot" id="dot"></div>
+              <div><b id="verdict"></b><div class="placeholder" id="claimed"></div></div>
+            </div>
+            <div style="margin-top:18px">
+              <div class="row" style="justify-content:space-between; font-size:12px; color:var(--muted)"><span>Agreement score</span><span class="mono" id="score" style="color:var(--ink)"></span></div>
+              <div class="meter"><i id="meter"></i><div class="cut" id="cut"></div></div>
+              <div class="scale mono"><span>0</span><span id="cut-label"></span><span>1</span></div>
+            </div>
+            <div class="warn" id="unknown" hidden></div>
+          </div>
+        </div>
+        <div class="card" id="rank-card" hidden>
+          <h2 style="margin:0; font-size:15px">What fits this photo best</h2>
+          <p class="hint" style="margin:4px 0 14px" id="rank-sub"></p>
+          <div class="rank" id="rank"></div>
+        </div>
+        <div class="card" style="background:#FBFBF9; font-size:13px; color:var(--muted)">
+          Scores are research scores, not a guarantee. The model is most reliable for shapes and flowers and weakest for exact dog breeds and car makes.
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section id="page-results" role="tabpanel" aria-labelledby="tab-results" hidden>
+    <h1>How well does the model work?</h1>
+    <p class="lead">Accuracy on test photos the model never saw during training. Half the test claims are true and half are false, so guessing scores 50%.</p>
+    <div class="stats">
+      <div class="stat dark"><div class="label-sm" style="color:#B9C4C1">Overall test accuracy</div><div class="big mono" id="r-overall">–</div><div style="font-size:13px; color:#B9C4C1" id="r-model"></div></div>
+      <div class="stat"><div class="label-sm">Pretrained CLIP (zero-shot)</div><div class="big mono" id="r-clip">–</div><div style="font-size:13px; color:var(--muted)">Same test photos, cut-off chosen on validation</div></div>
+    </div>
+    <div class="cols">
+      <div class="left">
+        <div class="card"><h2 style="margin:0; font-size:17px">Test accuracy by domain</h2>
+          <p class="hint" style="margin:4px 0 18px">The dark line marks 50%, the score from guessing.</p>
+          <div class="bars" id="r-bars"></div></div>
+        <div class="card"><h2 style="margin:0 0 12px; font-size:17px">By type of claim</h2><div class="scroll"><table id="r-claims"></table></div></div>
+      </div>
+      <div class="right">
+        <div class="card"><h2 style="margin:0 0 12px; font-size:17px">Custom model vs CLIP</h2><div class="scroll"><table id="r-clip-table"></table></div>
+          <p class="hint" id="r-clip-note"></p></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>CSC-44120 · Keele University · MSc Artificial Intelligence and Data Science · 2026 · Stanford Cars, Stanford Dogs, Oxford 102 Flowers, cats dataset, synthetic shapes</footer>
+
+<script>
+const STUDENT_ID = "26009900";   // <- put your student ID here
+const $ = (id) => document.getElementById(id);
+const state = { options: null, domain: null, mode: "build", file: null };
+$("student-id").textContent = STUDENT_ID;
+
+async function api(path, opts) {
+  const res = await fetch(path, opts);
+  let data = null;
+  try { data = await res.json(); } catch (e) { /* not JSON */ }
+  if (!res.ok) throw new Error((data && data.detail) || "The server returned an error (" + res.status + ").");
+  return data;
+}
+const pct = (v) => (v * 100).toFixed(1) + "%";
+
+function showTab(name) {
+  for (const t of ["check", "results"]) {
+    $("tab-" + t).setAttribute("aria-selected", String(t === name));
+    $("page-" + t).hidden = t !== name;
+  }
+  if (name === "results") loadResults();
+}
+$("tab-check").onclick = () => showTab("check");
+$("tab-results").onclick = () => showTab("results");
+
+function domainObj() { return state.options.domains.find((d) => d.id === state.domain); }
+function attrObj() { const d = domainObj(); return d.attributes.find((a) => a.id === $("attr").value) || d.attributes[0]; }
+
+function renderDomains() {
+  $("domains").replaceChildren(...state.options.domains.map((d) => {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "chip"; b.textContent = d.label;
+    b.setAttribute("aria-pressed", String(d.id === state.domain));
+    b.onclick = () => { state.domain = d.id; renderDomains(); renderAttrs(); clearResult(); };
+    return b;
+  }));
+  $("tip").textContent = domainObj().tip;
+}
+function renderAttrs() {
+  const d = domainObj();
+  $("attr").replaceChildren(...d.attributes.map((a) => new Option(a.name, a.id)));
+  renderClaims();
+}
+function renderClaims() {
+  $("claim").replaceChildren(...attrObj().claims.map((c) => new Option(c, c)));
+  updateSentence();
+}
+function currentCaption() { return state.mode === "build" ? $("claim").value : $("free").value.trim(); }
+function updateSentence() {
+  $("sentence").textContent = "“" + $("claim").value + "”";
+  $("go").disabled = !(state.file && currentCaption());
+}
+$("attr").onchange = () => { renderClaims(); clearResult(); };
+$("claim").onchange = () => { updateSentence(); clearResult(); };
+$("free").oninput = updateSentence;
+
+function setMode(mode) {
+  state.mode = mode;
+  $("mode-build").setAttribute("aria-pressed", String(mode === "build"));
+  $("mode-free").setAttribute("aria-pressed", String(mode === "free"));
+  $("builder").hidden = mode !== "build";
+  $("freebox").hidden = mode !== "free";
+  if (mode === "free" && !$("free").value) $("free").value = $("claim").value;
+  updateSentence();
+}
+$("mode-build").onclick = () => setMode("build");
+$("mode-free").onclick = () => setMode("free");
+
+function setFile(file) {
+  if (!file) return;
+  if (!["image/jpeg", "image/png"].includes(file.type)) return showError("Choose a JPG or PNG photo.");
+  if (file.size > 5 * 1024 * 1024) return showError("Choose a photo smaller than 5 MB.");
+  state.file = file;
+  const img = new Image();
+  img.alt = "Your photo";
+  img.src = URL.createObjectURL(file);
+  $("drop").classList.add("has");
+  $("drop").replaceChildren(img);
+  clearResult();
+  updateSentence();
+}
+$("photo").onchange = (e) => setFile(e.target.files[0]);
+$("drop").ondragover = (e) => { e.preventDefault(); };
+$("drop").ondrop = (e) => { e.preventDefault(); setFile(e.dataTransfer.files[0]); };
+
+function clearResult() { $("result").hidden = true; $("result-error").hidden = true; $("rank-card").hidden = true; $("result-empty").hidden = false; }
+function showError(msg) { $("result-empty").hidden = true; $("result").hidden = true; $("rank-card").hidden = true; $("result-error").hidden = false; $("result-error").textContent = msg; }
+
+function showResult(r) {
+  const ok = r.prediction === "consistent";
+  $("result-empty").hidden = true; $("result-error").hidden = true; $("result").hidden = false;
+  $("dot").style.background = ok ? "var(--green-soft)" : "var(--orange-soft)";
+  $("dot").innerHTML = ok
+    ? '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0E5A52" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M5 12l5 5L20 7"/></svg>'
+    : '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#B4410C" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>';
+  $("verdict").textContent = ok ? "Consistent" : "Inconsistent";
+  $("verdict").style.color = ok ? "var(--teal)" : "var(--orange)";
+  $("claimed").textContent = "“" + r.caption + "”";
+  $("score").textContent = r.score.toFixed(2);
+  $("meter").style.width = (r.score * 100) + "%";
+  $("meter").style.background = ok ? "var(--teal)" : "var(--orange)";
+  $("cut").style.left = (r.threshold * 100) + "%";
+  $("cut-label").textContent = r.threshold.toFixed(2) + " = cut-off";
+  $("unknown").hidden = !r.unknown_words.length;
+  $("unknown").textContent = "The model never saw these words in training, so it ignores them: " + r.unknown_words.join(", ") + ". Try the “Build it” claims.";
+
+  if (r.ranking) {
+    $("rank-card").hidden = false;
+    $("rank-sub").textContent = "Your claim ranks " + r.ranking.claim_rank + " of " + r.ranking.total + " claims of the same kind.";
+    $("rank").replaceChildren(...r.ranking.top.map((t) => {
+      const div = document.createElement("div");
+      const color = t.is_claim ? "var(--orange)" : "var(--teal)";
+      div.innerHTML = '<div class="top"><span></span><span class="mono"></span></div><div class="bar2"><i></i></div>';
+      div.querySelector(".top span").textContent = t.caption + (t.is_claim ? "  (your claim)" : "");
+      if (t.is_claim) div.querySelector(".top span").style.fontWeight = "600";
+      div.querySelector(".mono").textContent = t.score.toFixed(2);
+      const bar = div.querySelector("i"); bar.style.width = (t.score * 100) + "%"; bar.style.background = color;
+      return div;
+    }));
+  } else {
+    $("rank-card").hidden = true;
+  }
+}
+
+$("go").onclick = async () => {
+  const fd = new FormData();
+  fd.append("image", state.file);
+  fd.append("caption", currentCaption());
+  fd.append("domain", state.domain || "");
+  fd.append("attribute", state.mode === "build" ? $("attr").value : "");
+  $("go").disabled = true; $("go").textContent = "Checking…";
+  try { showResult(await api("/api/predict", { method: "POST", body: fd })); }
+  catch (e) { showError(e.message); }
+  finally { $("go").textContent = "Check photo and claim"; updateSentence(); }
+};
+
+let resultsLoaded = false;
+async function loadResults() {
+  if (resultsLoaded) return;
+  try {
+    const r = await api("/api/results");
+    resultsLoaded = true;
+    const names = { cars: "Cars", dogs: "Dogs", cats: "Cats", flowers: "Flowers", objects: "Shapes", coco: "Scenes" };
+    if (r.custom) {
+      $("r-overall").textContent = pct(r.custom.test_accuracy);
+      $("r-model").textContent = r.model_path + " · best epoch " + r.custom.best_epoch;
+      $("r-bars").replaceChildren(...Object.entries(r.custom.by_domain).sort((a, b) => b[1] - a[1]).map(([d, v]) => {
+        const div = document.createElement("div");
+        div.innerHTML = '<div class="head"><b></b><span class="mono"></span></div><div class="track"><i></i><div class="half"></div></div>';
+        div.querySelector("b").textContent = names[d] || d;
+        div.querySelector(".mono").textContent = pct(v);
+        div.querySelector("i").style.width = (v * 100) + "%";
+        return div;
+      }));
+    }
+    const head = '<tr><th>Domain</th><th>Claim</th><th class="num">Accuracy</th><th class="num">Pairs</th></tr>';
+    $("r-claims").innerHTML = head + r.by_claim.map((c) =>
+      `<tr><td>${names[c.domain] || c.domain}</td><td>${c.attribute}</td><td class="num mono">${pct(c.accuracy)}</td><td class="num mono">${c.pairs}</td></tr>`).join("");
+    if (r.clip) {
+      $("r-clip").textContent = pct(r.clip.ALL.accuracy);
+      const doms = Object.keys(r.clip).filter((d) => d !== "ALL").concat(["ALL"]);
+      $("r-clip-table").innerHTML = '<tr><th>Domain</th><th class="num">Custom</th><th class="num">CLIP</th><th class="num">CLIP paired</th></tr>' +
+        doms.map((d) => {
+          const custom = d === "ALL" ? (r.custom && r.custom.test_accuracy) : (r.custom && r.custom.by_domain[d]);
+          return `<tr><td>${d === "ALL" ? "<b>All</b>" : (names[d] || d)}</td><td class="num mono">${custom != null ? pct(custom) : "–"}</td><td class="num mono">${pct(r.clip[d].accuracy)}</td><td class="num mono">${pct(r.clip[d].paired_accuracy)}</td></tr>`;
+        }).join("");
+      $("r-clip-note").textContent = "CLIP was never trained on these photos. Paired = for each photo, is the true claim scored above the false one.";
+    } else {
+      $("r-clip-table").innerHTML = "";
+      $("r-clip-note").textContent = "Run python3 evaluation/evaluate_clip.py to add the CLIP comparison.";
+    }
+  } catch (e) {
+    $("r-overall").textContent = "–";
+    $("r-model").textContent = e.message;
+  }
+}
+
+(async () => {
+  try {
+    const h = await api("/api/health");
+    if (!h.model_ready) throw new Error(h.error || "The model is not loaded.");
+    state.options = await api("/api/options");
+    if (!state.options.domains.length) throw new Error("No claims found. Run process_all_datasets.py first.");
+    state.domain = state.options.domains[0].id;
+    $("status").textContent = "Model ready";
+    $("status").classList.remove("off");
+    renderDomains(); renderAttrs();
+  } catch (e) {
+    $("status").textContent = "Model not loaded";
+    $("load-error").hidden = false;
+    $("load-error").textContent = e.message;
+  }
+})();
+</script>
+</body>
+</html>

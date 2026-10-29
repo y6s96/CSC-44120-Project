@@ -1,0 +1,1198 @@
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Hyundai Azera Sedan 2012/01030.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Hyundai Azera Sedan 2012/03669.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Hyundai Azera Sedan 2012/06827.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Hyundai Azera Sedan 2012/07262.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Hyundai Elantra Sedan 2007/04872.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Hyundai Elantra Touring Hatchback 2012/05931.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Hyundai Santa Fe SUV 2012/02320.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Hyundai Sonata Hybrid Sedan 2012/06689.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Hyundai Veloster Hatchback 2012/04828.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Hyundai Veloster Hatchback 2012/05558.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Hyundai Veracruz SUV 2012/05971.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Hyundai Veracruz SUV 2012/06184.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Jaguar XK XKR 2012/07964.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Jeep Liberty SUV 2012/01271.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Jeep Liberty SUV 2012/03840.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Jeep Liberty SUV 2012/04684.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Jeep Liberty SUV 2012/07878.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Lamborghini Aventador Coupe 2012/00760.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Lamborghini Aventador Coupe 2012/03526.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Lamborghini Aventador Coupe 2012/07213.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Lamborghini Diablo Coupe 2001/00260.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Lamborghini Diablo Coupe 2001/02094.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Lamborghini Gallardo LP 570-4 Superleggera 2012/05489.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Lamborghini Gallardo LP 570-4 Superleggera 2012/06627.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Lamborghini Reventon Coupe 2008/00816.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Lamborghini Reventon Coupe 2008/02703.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Lamborghini Reventon Coupe 2008/03872.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Lamborghini Reventon Coupe 2008/05587.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Land Rover Range Rover SUV 2012/01913.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Maybach Landaulet Convertible 2012/01138.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Maybach Landaulet Convertible 2012/05584.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Mercedes-Benz 300-Class Convertible 1993/06053.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Mercedes-Benz E-Class Sedan 2012/00031.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Mercedes-Benz E-Class Sedan 2012/00447.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Mercedes-Benz SL-Class Coupe 2009/07576.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Mercedes-Benz Sprinter Van 2012/02825.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Mitsubishi Lancer Sedan 2012/04408.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Mitsubishi Lancer Sedan 2012/06319.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Mitsubishi Lancer Sedan 2012/07834.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Nissan 240SX Coupe 1998/02927.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Nissan NV Passenger Van 2012/02758.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Nissan NV Passenger Van 2012/03227.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Plymouth Neon Coupe 1999/06198.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Porsche Panamera Sedan 2012/00575.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Porsche Panamera Sedan 2012/01810.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Rolls-Royce Ghost Sedan 2012/06408.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Rolls-Royce Phantom Drophead Coupe Convertible 2012/03878.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Rolls-Royce Phantom Drophead Coupe Convertible 2012/07510.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Rolls-Royce Phantom Sedan 2012/07074.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Rolls-Royce Phantom Sedan 2012/07377.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Spyker C8 Convertible 2009/00162.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Spyker C8 Coupe 2009/03182.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Spyker C8 Coupe 2009/04712.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Spyker C8 Coupe 2009/06541.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Suzuki Kizashi Sedan 2012/02922.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Suzuki Kizashi Sedan 2012/03450.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Suzuki SX4 Sedan 2012/00403.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Tesla Model S Sedan 2012/00316.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Tesla Model S Sedan 2012/02694.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Tesla Model S Sedan 2012/03939.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Toyota 4Runner SUV 2012/07072.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Toyota Corolla Sedan 2012/00965.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Volkswagen Golf Hatchback 2012/00319.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/Volvo 240 Sedan 1993/06670.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/smart fortwo Convertible 2012/03157.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/smart fortwo Convertible 2012/04307.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/smart fortwo Convertible 2012/05706.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/test/smart fortwo Convertible 2012/07236.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/AM General Hummer SUV 2000/00887.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/AM General Hummer SUV 2000/04669.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Acura Integra Type R 2001/07483.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Acura RL Sedan 2012/03011.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Acura RL Sedan 2012/07897.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Aston Martin V8 Vantage Convertible 2012/04121.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Aston Martin V8 Vantage Convertible 2012/04396.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Aston Martin Virage Convertible 2012/00292.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Aston Martin Virage Coupe 2012/03766.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Aston Martin Virage Coupe 2012/04166.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Aston Martin Virage Coupe 2012/06433.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi 100 Wagon 1994/02796.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi R8 Coupe 2012/01457.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi R8 Coupe 2012/04241.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi R8 Coupe 2012/05280.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi RS 4 Convertible 2008/00690.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi S4 Sedan 2007/03855.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi S4 Sedan 2012/00934.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi S5 Convertible 2012/02041.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi S5 Convertible 2012/03644.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi S5 Coupe 2012/04676.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi TT Hatchback 2011/01644.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi TT RS Coupe 2012/05183.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Audi V8 Sedan 1994/02728.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/BMW 1 Series Convertible 2012/01838.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/BMW 1 Series Convertible 2012/05878.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/BMW 6 Series Convertible 2007/05892.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/BMW M3 Coupe 2012/00546.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/BMW M5 Sedan 2010/02232.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/BMW M6 Convertible 2010/02681.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/BMW X3 SUV 2012/00099.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/BMW X3 SUV 2012/02010.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Bentley Arnage Sedan 2009/03603.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Bentley Arnage Sedan 2009/08015.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Bentley Continental Flying Spur Sedan 2007/03149.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Bentley Mulsanne Sedan 2011/00746.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Bentley Mulsanne Sedan 2011/02718.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Bentley Mulsanne Sedan 2011/05803.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Bentley Mulsanne Sedan 2011/07433.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Bugatti Veyron 16.4 Convertible 2009/06392.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Bugatti Veyron 16.4 Convertible 2009/07082.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Bugatti Veyron 16.4 Coupe 2009/01818.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Buick Enclave SUV 2012/00943.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Buick Enclave SUV 2012/05758.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Buick Enclave SUV 2012/06197.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Buick Enclave SUV 2012/07112.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Buick Regal GS 2012/04870.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Cadillac CTS-V Sedan 2012/05081.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Camaro Convertible 2012/01342.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Corvette Ron Fellows Edition Z06 2007/02257.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Corvette ZR1 2012/03615.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Express Cargo Van 2007/01679.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Express Van 2007/02672.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Malibu Sedan 2007/07166.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Silverado 1500 Extended Cab 2012/02840.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Silverado 1500 Extended Cab 2012/03117.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Silverado 1500 Regular Cab 2012/04638.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Sonic Sedan 2012/00995.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Sonic Sedan 2012/05844.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet TrailBlazer SS 2009/02121.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet TrailBlazer SS 2009/02296.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Traverse SUV 2012/00692.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Traverse SUV 2012/02215.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chevrolet Traverse SUV 2012/02795.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chrysler 300 SRT-8 2010/08107.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chrysler PT Cruiser Convertible 2008/01823.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Chrysler Sebring Convertible 2010/02075.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Daewoo Nubira Wagon 2002/06245.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Dodge Challenger SRT8 2011/05111.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Dodge Challenger SRT8 2011/05792.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Dodge Charger SRT-8 2009/04522.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Dodge Magnum Wagon 2008/06280.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/FIAT 500 Abarth 2012/01407.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/FIAT 500 Abarth 2012/03027.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/FIAT 500 Convertible 2012/02731.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/FIAT 500 Convertible 2012/03182.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/FIAT 500 Convertible 2012/04261.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ferrari 458 Italia Convertible 2012/00784.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ferrari 458 Italia Convertible 2012/01926.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ferrari 458 Italia Convertible 2012/03475.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ferrari 458 Italia Convertible 2012/04634.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ferrari 458 Italia Convertible 2012/05360.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ferrari 458 Italia Convertible 2012/06003.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ferrari 458 Italia Convertible 2012/06688.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ferrari 458 Italia Convertible 2012/07993.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ferrari 458 Italia Coupe 2012/07198.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ferrari California Convertible 2012/05298.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ferrari California Convertible 2012/06709.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ferrari FF Coupe 2012/02767.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ford Edge SUV 2012/04144.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ford Expedition EL SUV 2009/07677.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ford Fiesta Sedan 2012/05487.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Ford Ranger SuperCab 2011/00080.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/GMC Acadia SUV 2012/04518.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/GMC Yukon Hybrid SUV 2012/07010.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Geo Metro Convertible 1993/05254.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Geo Metro Convertible 1993/07071.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/HUMMER H2 SUT Crew Cab 2009/03364.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Hyundai Accent Sedan 2012/00648.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Hyundai Elantra Touring Hatchback 2012/05093.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Hyundai Genesis Sedan 2012/00247.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Hyundai Genesis Sedan 2012/00815.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Hyundai Genesis Sedan 2012/04593.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Hyundai Genesis Sedan 2012/06764.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Hyundai Sonata Sedan 2012/06562.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Hyundai Veloster Hatchback 2012/01286.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Hyundai Veloster Hatchback 2012/02895.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Hyundai Veracruz SUV 2012/03688.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Isuzu Ascender SUV 2008/06789.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Jaguar XK XKR 2012/01455.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Jaguar XK XKR 2012/04081.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Jaguar XK XKR 2012/06238.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Jeep Grand Cherokee SUV 2012/03474.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Jeep Grand Cherokee SUV 2012/06865.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Jeep Patriot SUV 2012/00621.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Lamborghini Aventador Coupe 2012/00841.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Lamborghini Aventador Coupe 2012/08106.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Lamborghini Diablo Coupe 2001/01183.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Lamborghini Gallardo LP 570-4 Superleggera 2012/00822.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Lamborghini Gallardo LP 570-4 Superleggera 2012/05530.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Lamborghini Gallardo LP 570-4 Superleggera 2012/05641.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Land Rover LR2 SUV 2012/03494.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Land Rover LR2 SUV 2012/03939.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Lincoln Town Car Sedan 2011/06795.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/MINI Cooper Roadster Convertible 2012/06085.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Mazda Tribute SUV 2011/01231.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/McLaren MP4-12C Coupe 2012/06038.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Mercedes-Benz 300-Class Convertible 1993/00961.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Mercedes-Benz 300-Class Convertible 1993/06504.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Mercedes-Benz C-Class Sedan 2012/01338.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Mercedes-Benz C-Class Sedan 2012/05371.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Mercedes-Benz E-Class Sedan 2012/03847.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Mercedes-Benz SL-Class Coupe 2009/08116.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Mercedes-Benz Sprinter Van 2012/08061.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Nissan 240SX Coupe 1998/07791.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Nissan Leaf Hatchback 2012/04229.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Nissan Leaf Hatchback 2012/04710.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Nissan Leaf Hatchback 2012/05504.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Porsche Panamera Sedan 2012/04173.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Porsche Panamera Sedan 2012/07777.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Rolls-Royce Ghost Sedan 2012/01584.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Rolls-Royce Ghost Sedan 2012/04665.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Rolls-Royce Phantom Sedan 2012/04849.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Rolls-Royce Phantom Sedan 2012/06423.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Rolls-Royce Phantom Sedan 2012/06841.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Scion xD Hatchback 2012/02937.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Scion xD Hatchback 2012/04160.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Spyker C8 Convertible 2009/05247.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Spyker C8 Convertible 2009/06371.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Spyker C8 Convertible 2009/06958.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Spyker C8 Convertible 2009/07650.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Spyker C8 Convertible 2009/07743.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Spyker C8 Coupe 2009/05954.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Spyker C8 Coupe 2009/06858.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Suzuki Kizashi Sedan 2012/01488.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Suzuki SX4 Hatchback 2012/04013.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Suzuki SX4 Sedan 2012/05320.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Suzuki SX4 Sedan 2012/05511.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Tesla Model S Sedan 2012/00656.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Tesla Model S Sedan 2012/06867.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Toyota Camry Sedan 2012/03531.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Toyota Camry Sedan 2012/03623.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Toyota Camry Sedan 2012/06866.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Volkswagen Beetle Hatchback 2012/02997.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Volkswagen Golf Hatchback 1991/00527.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Volkswagen Golf Hatchback 1991/06343.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Volkswagen Golf Hatchback 2012/05931.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Volvo 240 Sedan 1993/03345.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Volvo C30 Hatchback 2012/01046.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Volvo C30 Hatchback 2012/01464.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Volvo C30 Hatchback 2012/07177.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/Volvo XC90 SUV 2007/04358.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/smart fortwo Convertible 2012/02961.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CARS/car_data/car_data/train/smart fortwo Convertible 2012/06759.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Abyssinian_20.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Bengal_136.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Bengal_34.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Birman_179.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Egyptian_Mau_194.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Egyptian_Mau_28.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Egyptian_Mau_57.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Egyptian_Mau_89.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Maine_Coon_193.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Maine_Coon_242.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Persian_168.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Ragdoll_130.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Siamese_130.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Siamese_65.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_102.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_107.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_11.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_112.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_151.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_165.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_173.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_174.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_180.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_184.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_193.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_199.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_201.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_204.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_213.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_223.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_234.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_245.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_31.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_40.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_44.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_47.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_49.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_53.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_56.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_57.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_67.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_72.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_75.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_80.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_82.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_85.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_88.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_9.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/Sphynx_90.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_bulldog_106.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_bulldog_144.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_bulldog_200.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_bulldog_209.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_bulldog_217.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_bulldog_218.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_bulldog_220.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_bulldog_27.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_bulldog_35.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_bulldog_76.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_bulldog_81.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_pit_bull_terrier_102.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_pit_bull_terrier_119.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_pit_bull_terrier_131.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_pit_bull_terrier_172.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_pit_bull_terrier_195.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_pit_bull_terrier_53.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_pit_bull_terrier_56.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/american_pit_bull_terrier_97.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/basset_hound_107.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/basset_hound_131.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/basset_hound_138.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/basset_hound_152.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/basset_hound_156.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/basset_hound_157.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/basset_hound_167.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/beagle_130.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/beagle_142.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/beagle_147.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/beagle_156.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/beagle_171.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/beagle_184.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/beagle_193.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/beagle_34.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/beagle_92.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/boxer_136.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/boxer_139.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/boxer_149.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/boxer_150.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/boxer_153.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/boxer_173.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/boxer_197.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/boxer_2.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/boxer_91.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/chihuahua_109.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/chihuahua_137.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/chihuahua_147.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/chihuahua_172.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/chihuahua_26.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/chihuahua_73.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/english_cocker_spaniel_118.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/english_cocker_spaniel_143.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/english_cocker_spaniel_167.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/english_cocker_spaniel_52.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/english_cocker_spaniel_71.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/english_setter_131.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/english_setter_138.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/english_setter_174.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/english_setter_3.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/german_shorthaired_160.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/german_shorthaired_170.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/german_shorthaired_178.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/german_shorthaired_180.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/german_shorthaired_195.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/german_shorthaired_199.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/german_shorthaired_80.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/great_pyrenees_113.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/great_pyrenees_117.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/great_pyrenees_127.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/great_pyrenees_155.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/great_pyrenees_53.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/great_pyrenees_54.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/great_pyrenees_57.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/great_pyrenees_63.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/great_pyrenees_72.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/havanese_156.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/havanese_187.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/havanese_68.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/havanese_76.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/japanese_chin_135.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/japanese_chin_141.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/japanese_chin_167.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/japanese_chin_80.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/japanese_chin_81.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/keeshond_128.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/keeshond_156.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/keeshond_172.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/keeshond_174.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/leonberger_107.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/leonberger_123.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/leonberger_126.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/leonberger_127.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/leonberger_133.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/leonberger_148.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/leonberger_167.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/leonberger_36.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/leonberger_67.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/leonberger_8.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/miniature_pinscher_125.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/miniature_pinscher_128.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/miniature_pinscher_13.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/miniature_pinscher_144.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/miniature_pinscher_149.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/miniature_pinscher_150.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/miniature_pinscher_16.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/miniature_pinscher_171.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/miniature_pinscher_195.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/miniature_pinscher_26.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/miniature_pinscher_90.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/newfoundland_117.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/newfoundland_143.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/newfoundland_152.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/newfoundland_156.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/newfoundland_30.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/newfoundland_96.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/pomeranian_180.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/pug_157.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/pug_17.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/pug_23.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/saint_bernard_126.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/saint_bernard_141.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/saint_bernard_149.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/saint_bernard_154.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/saint_bernard_157.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/saint_bernard_182.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/saint_bernard_193.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/saint_bernard_21.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/saint_bernard_24.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/saint_bernard_79.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/saint_bernard_8.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/saint_bernard_93.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/samoyed_104.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/samoyed_147.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/samoyed_150.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/samoyed_151.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/samoyed_152.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/samoyed_191.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/samoyed_195.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/samoyed_43.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/samoyed_67.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/samoyed_70.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/samoyed_81.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/samoyed_91.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/scottish_terrier_105.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/scottish_terrier_109.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/scottish_terrier_117.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/scottish_terrier_146.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/scottish_terrier_24.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/scottish_terrier_64.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/scottish_terrier_86.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/scottish_terrier_9.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/shiba_inu_109.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/shiba_inu_115.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/shiba_inu_130.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/shiba_inu_162.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/shiba_inu_204.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/shiba_inu_22.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/shiba_inu_48.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/shiba_inu_92.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/shiba_inu_96.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/staffordshire_bull_terrier_100.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/staffordshire_bull_terrier_117.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/staffordshire_bull_terrier_124.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/staffordshire_bull_terrier_167.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/staffordshire_bull_terrier_192.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/staffordshire_bull_terrier_201.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/staffordshire_bull_terrier_44.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/staffordshire_bull_terrier_75.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/staffordshire_bull_terrier_87.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_118.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_126.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_143.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_152.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_160.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_167.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_168.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_169.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_171.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_187.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_197.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_64.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_65.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/wheaten_terrier_69.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/yorkshire_terrier_129.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/yorkshire_terrier_166.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/yorkshire_terrier_47.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/yorkshire_terrier_58.jpg
+/Users/hamzajavid/Desktop/FYP/Data/CATS/yorkshire_terrier_76.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085620-Chihuahua/n02085620_1205.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085620-Chihuahua/n02085620_3033.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085620-Chihuahua/n02085620_382.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085620-Chihuahua/n02085620_3875.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085620-Chihuahua/n02085620_3942.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085620-Chihuahua/n02085620_4602.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085620-Chihuahua/n02085620_5771.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085620-Chihuahua/n02085620_7.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085782-Japanese_spaniel/n02085782_2715.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085782-Japanese_spaniel/n02085782_3744.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085782-Japanese_spaniel/n02085782_82.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085936-Maltese_dog/n02085936_2627.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085936-Maltese_dog/n02085936_2999.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085936-Maltese_dog/n02085936_5466.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085936-Maltese_dog/n02085936_5582.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085936-Maltese_dog/n02085936_9086.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085936-Maltese_dog/n02085936_9088.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02085936-Maltese_dog/n02085936_9481.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086079-Pekinese/n02086079_14360.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086079-Pekinese/n02086079_15375.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086079-Pekinese/n02086079_17015.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086079-Pekinese/n02086079_17886.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086079-Pekinese/n02086079_4129.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086079-Pekinese/n02086079_5106.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086079-Pekinese/n02086079_6333.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086079-Pekinese/n02086079_9756.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086240-Shih-Tzu/n02086240_11539.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086240-Shih-Tzu/n02086240_11622.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086240-Shih-Tzu/n02086240_1602.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086240-Shih-Tzu/n02086240_6585.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086240-Shih-Tzu/n02086240_7142.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086646-Blenheim_spaniel/n02086646_1182.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086646-Blenheim_spaniel/n02086646_1647.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086646-Blenheim_spaniel/n02086646_2871.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086646-Blenheim_spaniel/n02086646_3315.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086646-Blenheim_spaniel/n02086646_3815.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086646-Blenheim_spaniel/n02086646_4026.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086910-papillon/n02086910_2399.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086910-papillon/n02086910_6305.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02086910-papillon/n02086910_6483.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02087046-toy_terrier/n02087046_1386.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02087046-toy_terrier/n02087046_1482.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02087046-toy_terrier/n02087046_505.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02087046-toy_terrier/n02087046_5849.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02087394-Rhodesian_ridgeback/n02087394_11713.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02087394-Rhodesian_ridgeback/n02087394_7056.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02087394-Rhodesian_ridgeback/n02087394_7724.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02087394-Rhodesian_ridgeback/n02087394_8044.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_1007.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_10982.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_11432.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_1222.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_13909.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_1618.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_185.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_227.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_2641.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_2879.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_3075.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_3613.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_4501.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_4870.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_537.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_5521.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_7229.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_8631.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_899.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088094-Afghan_hound/n02088094_9523.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088238-basset/n02088238_10510.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088238-basset/n02088238_3079.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088238-basset/n02088238_658.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088238-basset/n02088238_6621.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088238-basset/n02088238_6988.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088238-basset/n02088238_9718.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088238-basset/n02088238_9900.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088364-beagle/n02088364_10296.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088364-beagle/n02088364_11711.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088364-beagle/n02088364_12291.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088364-beagle/n02088364_15315.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088364-beagle/n02088364_9650.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088466-bloodhound/n02088466_11827.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088466-bloodhound/n02088466_11903.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088466-bloodhound/n02088466_1503.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088466-bloodhound/n02088466_5784.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088466-bloodhound/n02088466_7178.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088466-bloodhound/n02088466_7269.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088466-bloodhound/n02088466_7607.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088466-bloodhound/n02088466_8184.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088466-bloodhound/n02088466_8233.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088466-bloodhound/n02088466_8645.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088466-bloodhound/n02088466_9167.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088466-bloodhound/n02088466_9360.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088632-bluetick/n02088632_1047.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088632-bluetick/n02088632_2165.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088632-bluetick/n02088632_2253.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088632-bluetick/n02088632_3362.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02088632-bluetick/n02088632_3643.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089078-black-and-tan_coonhound/n02089078_1962.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089078-black-and-tan_coonhound/n02089078_314.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089078-black-and-tan_coonhound/n02089078_4312.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089867-Walker_hound/n02089867_1029.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089867-Walker_hound/n02089867_2061.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089867-Walker_hound/n02089867_2102.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089867-Walker_hound/n02089867_3133.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089973-English_foxhound/n02089973_1000.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089973-English_foxhound/n02089973_1232.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089973-English_foxhound/n02089973_1260.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089973-English_foxhound/n02089973_1277.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089973-English_foxhound/n02089973_1298.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089973-English_foxhound/n02089973_1458.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089973-English_foxhound/n02089973_1701.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089973-English_foxhound/n02089973_251.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089973-English_foxhound/n02089973_3647.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02089973-English_foxhound/n02089973_843.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090379-redbone/n02090379_1401.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090379-redbone/n02090379_1489.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090379-redbone/n02090379_1754.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090379-redbone/n02090379_4054.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090379-redbone/n02090379_5122.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090379-redbone/n02090379_5414.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090622-borzoi/n02090622_1047.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090622-borzoi/n02090622_4005.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090622-borzoi/n02090622_4103.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090622-borzoi/n02090622_5524.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090622-borzoi/n02090622_7292.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090622-borzoi/n02090622_7739.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090622-borzoi/n02090622_8045.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090622-borzoi/n02090622_8240.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090622-borzoi/n02090622_8703.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090622-borzoi/n02090622_9415.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_1127.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_1235.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_1349.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_2442.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_2702.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_2731.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_3787.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_4032.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_4304.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_4849.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_521.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_6219.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_6650.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_6715.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02090721-Irish_wolfhound/n02090721_7155.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091032-Italian_greyhound/n02091032_102.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091032-Italian_greyhound/n02091032_11549.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091032-Italian_greyhound/n02091032_1518.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091032-Italian_greyhound/n02091032_3470.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091032-Italian_greyhound/n02091032_4245.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091032-Italian_greyhound/n02091032_4458.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091032-Italian_greyhound/n02091032_5.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091032-Italian_greyhound/n02091032_526.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091032-Italian_greyhound/n02091032_6587.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091032-Italian_greyhound/n02091032_9628.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091134-whippet/n02091134_11765.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091134-whippet/n02091134_12017.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091134-whippet/n02091134_13544.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091134-whippet/n02091134_14567.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091134-whippet/n02091134_16062.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091134-whippet/n02091134_16904.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091134-whippet/n02091134_18902.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091134-whippet/n02091134_20065.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091134-whippet/n02091134_6616.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091244-Ibizan_hound/n02091244_2760.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091244-Ibizan_hound/n02091244_3315.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091244-Ibizan_hound/n02091244_4644.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091244-Ibizan_hound/n02091244_5491.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091244-Ibizan_hound/n02091244_5601.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091244-Ibizan_hound/n02091244_5718.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091244-Ibizan_hound/n02091244_5818.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091467-Norwegian_elkhound/n02091467_2063.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091467-Norwegian_elkhound/n02091467_3474.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091467-Norwegian_elkhound/n02091467_3747.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091467-Norwegian_elkhound/n02091467_3993.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091467-Norwegian_elkhound/n02091467_4110.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091467-Norwegian_elkhound/n02091467_4472.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091467-Norwegian_elkhound/n02091467_5474.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091467-Norwegian_elkhound/n02091467_5640.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091635-otterhound/n02091635_1302.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091635-otterhound/n02091635_1372.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091635-otterhound/n02091635_1612.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091635-otterhound/n02091635_2948.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091635-otterhound/n02091635_3409.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091635-otterhound/n02091635_554.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091831-Saluki/n02091831_10733.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091831-Saluki/n02091831_12945.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091831-Saluki/n02091831_1852.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091831-Saluki/n02091831_2911.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091831-Saluki/n02091831_3038.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091831-Saluki/n02091831_3400.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091831-Saluki/n02091831_351.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091831-Saluki/n02091831_4966.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091831-Saluki/n02091831_5879.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091831-Saluki/n02091831_7287.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02091831-Saluki/n02091831_843.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_10911.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_1253.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_12595.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_15064.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_15215.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_3460.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_3861.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_4338.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_5202.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_6226.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_6827.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_6907.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_7537.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_9224.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092002-Scottish_deerhound/n02092002_942.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092339-Weimaraner/n02092339_3091.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092339-Weimaraner/n02092339_367.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092339-Weimaraner/n02092339_431.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092339-Weimaraner/n02092339_6124.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092339-Weimaraner/n02092339_719.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02092339-Weimaraner/n02092339_7499.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093256-Staffordshire_bullterrier/n02093256_2513.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093256-Staffordshire_bullterrier/n02093256_3378.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093256-Staffordshire_bullterrier/n02093256_3529.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093256-Staffordshire_bullterrier/n02093256_4007.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093256-Staffordshire_bullterrier/n02093256_4374.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093256-Staffordshire_bullterrier/n02093256_8615.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093428-American_Staffordshire_terrier/n02093428_11916.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093428-American_Staffordshire_terrier/n02093428_16682.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093428-American_Staffordshire_terrier/n02093428_3657.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093428-American_Staffordshire_terrier/n02093428_5331.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093647-Bedlington_terrier/n02093647_1081.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093647-Bedlington_terrier/n02093647_1235.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093647-Bedlington_terrier/n02093647_2488.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093754-Border_terrier/n02093754_1895.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093754-Border_terrier/n02093754_2799.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093754-Border_terrier/n02093754_2847.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093754-Border_terrier/n02093754_4285.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093754-Border_terrier/n02093754_7902.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093859-Kerry_blue_terrier/n02093859_1498.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093859-Kerry_blue_terrier/n02093859_1519.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093859-Kerry_blue_terrier/n02093859_2625.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093859-Kerry_blue_terrier/n02093859_276.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093859-Kerry_blue_terrier/n02093859_2859.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093859-Kerry_blue_terrier/n02093859_3153.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093859-Kerry_blue_terrier/n02093859_3394.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093859-Kerry_blue_terrier/n02093859_729.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02093991-Irish_terrier/n02093991_3536.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094114-Norfolk_terrier/n02094114_1913.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094114-Norfolk_terrier/n02094114_1986.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094114-Norfolk_terrier/n02094114_3222.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094114-Norfolk_terrier/n02094114_3925.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094114-Norfolk_terrier/n02094114_513.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094114-Norfolk_terrier/n02094114_515.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094258-Norwich_terrier/n02094258_1579.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094258-Norwich_terrier/n02094258_2277.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094258-Norwich_terrier/n02094258_2841.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094258-Norwich_terrier/n02094258_3392.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094258-Norwich_terrier/n02094258_50.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094433-Yorkshire_terrier/n02094433_1269.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094433-Yorkshire_terrier/n02094433_1869.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094433-Yorkshire_terrier/n02094433_2987.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094433-Yorkshire_terrier/n02094433_3655.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094433-Yorkshire_terrier/n02094433_4091.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094433-Yorkshire_terrier/n02094433_4181.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094433-Yorkshire_terrier/n02094433_5356.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02094433-Yorkshire_terrier/n02094433_701.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095314-wire-haired_fox_terrier/n02095314_1665.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095314-wire-haired_fox_terrier/n02095314_2472.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095314-wire-haired_fox_terrier/n02095314_3006.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095570-Lakeland_terrier/n02095570_2282.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095570-Lakeland_terrier/n02095570_2354.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095570-Lakeland_terrier/n02095570_563.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095570-Lakeland_terrier/n02095570_5820.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095570-Lakeland_terrier/n02095570_5970.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095570-Lakeland_terrier/n02095570_6390.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095889-Sealyham_terrier/n02095889_10.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095889-Sealyham_terrier/n02095889_1313.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095889-Sealyham_terrier/n02095889_2542.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095889-Sealyham_terrier/n02095889_2897.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095889-Sealyham_terrier/n02095889_3642.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095889-Sealyham_terrier/n02095889_3904.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095889-Sealyham_terrier/n02095889_4078.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095889-Sealyham_terrier/n02095889_4099.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095889-Sealyham_terrier/n02095889_4964.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095889-Sealyham_terrier/n02095889_5856.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02095889-Sealyham_terrier/n02095889_6485.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096051-Airedale/n02096051_3253.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096051-Airedale/n02096051_3660.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096051-Airedale/n02096051_3700.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096051-Airedale/n02096051_4991.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096051-Airedale/n02096051_841.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096051-Airedale/n02096051_9359.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096177-cairn/n02096177_11883.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096177-cairn/n02096177_2650.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096177-cairn/n02096177_5150.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096177-cairn/n02096177_5206.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096294-Australian_terrier/n02096294_2688.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096294-Australian_terrier/n02096294_4201.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096294-Australian_terrier/n02096294_4205.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096294-Australian_terrier/n02096294_459.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096294-Australian_terrier/n02096294_7567.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096294-Australian_terrier/n02096294_8268.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096437-Dandie_Dinmont/n02096437_1135.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096437-Dandie_Dinmont/n02096437_2019.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096437-Dandie_Dinmont/n02096437_2067.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096437-Dandie_Dinmont/n02096437_2568.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096585-Boston_bull/n02096585_1624.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096585-Boston_bull/n02096585_237.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096585-Boston_bull/n02096585_318.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096585-Boston_bull/n02096585_3681.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096585-Boston_bull/n02096585_772.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02096585-Boston_bull/n02096585_9153.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097047-miniature_schnauzer/n02097047_1093.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097047-miniature_schnauzer/n02097047_2634.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097047-miniature_schnauzer/n02097047_2865.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097130-giant_schnauzer/n02097130_3046.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097130-giant_schnauzer/n02097130_983.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097209-standard_schnauzer/n02097209_1247.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097209-standard_schnauzer/n02097209_1831.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097209-standard_schnauzer/n02097209_226.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097209-standard_schnauzer/n02097209_3630.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097298-Scotch_terrier/n02097298_7694.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097298-Scotch_terrier/n02097298_7835.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097298-Scotch_terrier/n02097298_8146.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097298-Scotch_terrier/n02097298_8427.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097298-Scotch_terrier/n02097298_9432.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097474-Tibetan_terrier/n02097474_1278.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097474-Tibetan_terrier/n02097474_1990.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097474-Tibetan_terrier/n02097474_40.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097474-Tibetan_terrier/n02097474_4053.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097474-Tibetan_terrier/n02097474_85.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097474-Tibetan_terrier/n02097474_8688.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02097474-Tibetan_terrier/n02097474_8811.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098105-soft-coated_wheaten_terrier/n02098105_162.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098105-soft-coated_wheaten_terrier/n02098105_1664.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098105-soft-coated_wheaten_terrier/n02098105_1998.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098105-soft-coated_wheaten_terrier/n02098105_2078.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098105-soft-coated_wheaten_terrier/n02098105_2474.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098286-West_Highland_white_terrier/n02098286_1632.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098286-West_Highland_white_terrier/n02098286_4106.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098413-Lhasa/n02098413_10966.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098413-Lhasa/n02098413_1713.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098413-Lhasa/n02098413_1718.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098413-Lhasa/n02098413_20356.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098413-Lhasa/n02098413_20774.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098413-Lhasa/n02098413_2536.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098413-Lhasa/n02098413_3798.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02098413-Lhasa/n02098413_575.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099267-flat-coated_retriever/n02099267_1860.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099267-flat-coated_retriever/n02099267_2792.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099267-flat-coated_retriever/n02099267_4812.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099429-curly-coated_retriever/n02099429_1412.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099429-curly-coated_retriever/n02099429_159.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099429-curly-coated_retriever/n02099429_2263.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099429-curly-coated_retriever/n02099429_2504.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099429-curly-coated_retriever/n02099429_258.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099429-curly-coated_retriever/n02099429_313.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099429-curly-coated_retriever/n02099429_433.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099429-curly-coated_retriever/n02099429_708.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099429-curly-coated_retriever/n02099429_878.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099601-golden_retriever/n02099601_2994.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099601-golden_retriever/n02099601_3666.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099601-golden_retriever/n02099601_3853.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099712-Labrador_retriever/n02099712_4160.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099712-Labrador_retriever/n02099712_4354.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099712-Labrador_retriever/n02099712_4508.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099712-Labrador_retriever/n02099712_7963.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099712-Labrador_retriever/n02099712_980.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099849-Chesapeake_Bay_retriever/n02099849_1536.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099849-Chesapeake_Bay_retriever/n02099849_1599.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099849-Chesapeake_Bay_retriever/n02099849_2092.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099849-Chesapeake_Bay_retriever/n02099849_2646.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099849-Chesapeake_Bay_retriever/n02099849_2935.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099849-Chesapeake_Bay_retriever/n02099849_3316.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099849-Chesapeake_Bay_retriever/n02099849_410.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02099849-Chesapeake_Bay_retriever/n02099849_696.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100236-German_short-haired_pointer/n02100236_2003.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100236-German_short-haired_pointer/n02100236_2423.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100236-German_short-haired_pointer/n02100236_5961.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100583-vizsla/n02100583_14263.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100583-vizsla/n02100583_3383.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100583-vizsla/n02100583_7904.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100583-vizsla/n02100583_9956.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100735-English_setter/n02100735_5435.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100735-English_setter/n02100735_5821.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100735-English_setter/n02100735_6848.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100877-Irish_setter/n02100877_102.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100877-Irish_setter/n02100877_2970.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100877-Irish_setter/n02100877_3417.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02100877-Irish_setter/n02100877_4332.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101006-Gordon_setter/n02101006_1205.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101006-Gordon_setter/n02101006_1249.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101006-Gordon_setter/n02101006_208.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101006-Gordon_setter/n02101006_266.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101006-Gordon_setter/n02101006_267.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101006-Gordon_setter/n02101006_338.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101006-Gordon_setter/n02101006_3439.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101006-Gordon_setter/n02101006_4988.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101388-Brittany_spaniel/n02101388_2529.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101388-Brittany_spaniel/n02101388_3536.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101388-Brittany_spaniel/n02101388_4229.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101556-clumber/n02101556_1270.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101556-clumber/n02101556_1819.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101556-clumber/n02101556_3736.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101556-clumber/n02101556_5448.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101556-clumber/n02101556_5833.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02101556-clumber/n02101556_7605.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102040-English_springer/n02102040_1055.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102040-English_springer/n02102040_3207.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102040-English_springer/n02102040_7328.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102177-Welsh_springer_spaniel/n02102177_1028.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102177-Welsh_springer_spaniel/n02102177_2365.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102177-Welsh_springer_spaniel/n02102177_4202.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102318-cocker_spaniel/n02102318_10360.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102318-cocker_spaniel/n02102318_10618.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102318-cocker_spaniel/n02102318_11615.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102318-cocker_spaniel/n02102318_4217.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102318-cocker_spaniel/n02102318_6612.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102480-Sussex_spaniel/n02102480_4365.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102480-Sussex_spaniel/n02102480_5065.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102480-Sussex_spaniel/n02102480_6167.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102480-Sussex_spaniel/n02102480_6283.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102480-Sussex_spaniel/n02102480_6374.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102480-Sussex_spaniel/n02102480_6593.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102480-Sussex_spaniel/n02102480_7212.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102480-Sussex_spaniel/n02102480_7238.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102480-Sussex_spaniel/n02102480_7850.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102480-Sussex_spaniel/n02102480_8240.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102973-Irish_water_spaniel/n02102973_1142.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102973-Irish_water_spaniel/n02102973_273.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102973-Irish_water_spaniel/n02102973_2958.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102973-Irish_water_spaniel/n02102973_3694.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02102973-Irish_water_spaniel/n02102973_487.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02104029-kuvasz/n02104029_1612.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02104029-kuvasz/n02104029_3734.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02104365-schipperke/n02104365_10319.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02104365-schipperke/n02104365_10514.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02104365-schipperke/n02104365_6693.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02104365-schipperke/n02104365_9238.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02104365-schipperke/n02104365_996.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105056-groenendael/n02105056_4631.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105162-malinois/n02105162_2896.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105162-malinois/n02105162_5252.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105162-malinois/n02105162_5299.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105162-malinois/n02105162_5924.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105251-briard/n02105251_3551.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105251-briard/n02105251_3746.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105251-briard/n02105251_685.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105251-briard/n02105251_7086.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105251-briard/n02105251_7579.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105251-briard/n02105251_8078.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105251-briard/n02105251_8094.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105251-briard/n02105251_8854.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105412-kelpie/n02105412_1464.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105412-kelpie/n02105412_7370.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105412-kelpie/n02105412_7866.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105505-komondor/n02105505_1018.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105505-komondor/n02105505_1383.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105505-komondor/n02105505_2069.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105505-komondor/n02105505_2134.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105505-komondor/n02105505_3050.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105505-komondor/n02105505_3541.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105505-komondor/n02105505_3647.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105505-komondor/n02105505_3716.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105641-Old_English_sheepdog/n02105641_2138.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105641-Old_English_sheepdog/n02105641_277.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105641-Old_English_sheepdog/n02105641_4677.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105641-Old_English_sheepdog/n02105641_4733.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105641-Old_English_sheepdog/n02105641_6350.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105641-Old_English_sheepdog/n02105641_8610.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105641-Old_English_sheepdog/n02105641_9320.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105855-Shetland_sheepdog/n02105855_14594.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105855-Shetland_sheepdog/n02105855_19204.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02105855-Shetland_sheepdog/n02105855_9857.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106030-collie/n02106030_10057.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106030-collie/n02106030_14736.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106030-collie/n02106030_18950.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106030-collie/n02106030_991.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106166-Border_collie/n02106166_135.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106166-Border_collie/n02106166_3434.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106382-Bouvier_des_Flandres/n02106382_1806.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106382-Bouvier_des_Flandres/n02106382_2679.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106382-Bouvier_des_Flandres/n02106382_2730.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106382-Bouvier_des_Flandres/n02106382_2740.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106382-Bouvier_des_Flandres/n02106382_276.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106382-Bouvier_des_Flandres/n02106382_4629.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106382-Bouvier_des_Flandres/n02106382_759.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106550-Rottweiler/n02106550_1388.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106550-Rottweiler/n02106550_1974.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106550-Rottweiler/n02106550_8383.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106550-Rottweiler/n02106550_9508.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106662-German_shepherd/n02106662_12906.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106662-German_shepherd/n02106662_19720.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106662-German_shepherd/n02106662_4402.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106662-German_shepherd/n02106662_5795.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106662-German_shepherd/n02106662_7313.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02106662-German_shepherd/n02106662_7545.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107142-Doberman/n02107142_13011.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107142-Doberman/n02107142_18214.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107142-Doberman/n02107142_3556.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107312-miniature_pinscher/n02107312_3071.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107312-miniature_pinscher/n02107312_3624.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107312-miniature_pinscher/n02107312_3994.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107312-miniature_pinscher/n02107312_4049.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107312-miniature_pinscher/n02107312_5407.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107312-miniature_pinscher/n02107312_5567.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107312-miniature_pinscher/n02107312_7235.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107574-Greater_Swiss_Mountain_dog/n02107574_1026.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107574-Greater_Swiss_Mountain_dog/n02107574_1866.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107574-Greater_Swiss_Mountain_dog/n02107574_2527.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107574-Greater_Swiss_Mountain_dog/n02107574_3001.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107683-Bernese_mountain_dog/n02107683_1412.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107683-Bernese_mountain_dog/n02107683_2305.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107683-Bernese_mountain_dog/n02107683_2965.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107683-Bernese_mountain_dog/n02107683_3278.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107683-Bernese_mountain_dog/n02107683_3358.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107683-Bernese_mountain_dog/n02107683_4633.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107908-Appenzeller/n02107908_2085.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107908-Appenzeller/n02107908_4963.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02107908-Appenzeller/n02107908_7443.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108000-EntleBucher/n02108000_2065.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108000-EntleBucher/n02108000_3306.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108089-boxer/n02108089_1104.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108422-bull_mastiff/n02108422_170.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108422-bull_mastiff/n02108422_2046.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108422-bull_mastiff/n02108422_4039.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108422-bull_mastiff/n02108422_4548.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108422-bull_mastiff/n02108422_4976.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108422-bull_mastiff/n02108422_5466.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108422-bull_mastiff/n02108422_5490.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108422-bull_mastiff/n02108422_683.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108551-Tibetan_mastiff/n02108551_13042.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108551-Tibetan_mastiff/n02108551_1700.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108551-Tibetan_mastiff/n02108551_1991.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108551-Tibetan_mastiff/n02108551_2000.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108551-Tibetan_mastiff/n02108551_246.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108551-Tibetan_mastiff/n02108551_2658.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108551-Tibetan_mastiff/n02108551_3222.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108551-Tibetan_mastiff/n02108551_3522.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108551-Tibetan_mastiff/n02108551_957.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108915-French_bulldog/n02108915_1839.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108915-French_bulldog/n02108915_3398.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108915-French_bulldog/n02108915_3527.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108915-French_bulldog/n02108915_5087.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108915-French_bulldog/n02108915_656.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02108915-French_bulldog/n02108915_9125.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02109047-Great_Dane/n02109047_10414.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02109047-Great_Dane/n02109047_13744.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02109047-Great_Dane/n02109047_25277.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02109047-Great_Dane/n02109047_34022.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02109047-Great_Dane/n02109047_9164.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02109047-Great_Dane/n02109047_941.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02109525-Saint_Bernard/n02109525_10146.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02109525-Saint_Bernard/n02109525_3667.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02109525-Saint_Bernard/n02109525_393.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02109961-Eskimo_dog/n02109961_18009.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02109961-Eskimo_dog/n02109961_3027.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110063-malamute/n02110063_10787.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110063-malamute/n02110063_11668.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110063-malamute/n02110063_11756.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110063-malamute/n02110063_13962.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110063-malamute/n02110063_14743.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110063-malamute/n02110063_17190.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110063-malamute/n02110063_18180.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110063-malamute/n02110063_18632.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110063-malamute/n02110063_566.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110063-malamute/n02110063_5676.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110185-Siberian_husky/n02110185_10967.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110185-Siberian_husky/n02110185_11287.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110185-Siberian_husky/n02110185_11445.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110185-Siberian_husky/n02110185_13794.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110185-Siberian_husky/n02110185_14061.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110185-Siberian_husky/n02110185_1534.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110185-Siberian_husky/n02110185_3039.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110185-Siberian_husky/n02110185_698.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110185-Siberian_husky/n02110185_815.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110627-affenpinscher/n02110627_11263.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110627-affenpinscher/n02110627_13782.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110627-affenpinscher/n02110627_13939.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110806-basenji/n02110806_2580.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110806-basenji/n02110806_3415.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110806-basenji/n02110806_3513.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110806-basenji/n02110806_4218.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110806-basenji/n02110806_4244.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110806-basenji/n02110806_4291.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110806-basenji/n02110806_487.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110806-basenji/n02110806_5256.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110806-basenji/n02110806_5537.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110806-basenji/n02110806_6035.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110806-basenji/n02110806_759.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110958-pug/n02110958_13023.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110958-pug/n02110958_13342.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110958-pug/n02110958_14563.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02110958-pug/n02110958_16178.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_1.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_1014.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_1178.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_1215.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_2112.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_2211.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_2218.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_2751.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_2781.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_3180.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_3576.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_3799.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_38.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_4069.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_4285.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_4435.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_646.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111129-Leonberg/n02111129_650.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111277-Newfoundland/n02111277_11530.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111277-Newfoundland/n02111277_12022.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111277-Newfoundland/n02111277_12042.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111277-Newfoundland/n02111277_3034.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111277-Newfoundland/n02111277_3713.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111277-Newfoundland/n02111277_3896.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111277-Newfoundland/n02111277_5789.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111277-Newfoundland/n02111277_5964.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111277-Newfoundland/n02111277_6213.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111277-Newfoundland/n02111277_7225.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111277-Newfoundland/n02111277_7760.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111500-Great_Pyrenees/n02111500_1358.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111500-Great_Pyrenees/n02111500_300.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111500-Great_Pyrenees/n02111500_3749.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111500-Great_Pyrenees/n02111500_4315.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111500-Great_Pyrenees/n02111500_5500.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111500-Great_Pyrenees/n02111500_5826.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111500-Great_Pyrenees/n02111500_6770.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111500-Great_Pyrenees/n02111500_7380.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111500-Great_Pyrenees/n02111500_7725.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111500-Great_Pyrenees/n02111500_9015.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111500-Great_Pyrenees/n02111500_9420.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111889-Samoyed/n02111889_1019.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111889-Samoyed/n02111889_12073.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111889-Samoyed/n02111889_1374.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111889-Samoyed/n02111889_13924.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111889-Samoyed/n02111889_15376.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111889-Samoyed/n02111889_18.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02111889-Samoyed/n02111889_6356.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112018-Pomeranian/n02112018_12405.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112018-Pomeranian/n02112018_1317.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112018-Pomeranian/n02112018_5738.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112018-Pomeranian/n02112018_8745.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112137-chow/n02112137_11732.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112137-chow/n02112137_16665.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112137-chow/n02112137_5601.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112137-chow/n02112137_6334.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112350-keeshond/n02112350_10343.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112350-keeshond/n02112350_2188.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112350-keeshond/n02112350_2211.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112350-keeshond/n02112350_4590.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112350-keeshond/n02112350_6916.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112350-keeshond/n02112350_6947.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112350-keeshond/n02112350_8875.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112350-keeshond/n02112350_8986.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112350-keeshond/n02112350_9536.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02112706-Brabancon_griffon/n02112706_220.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113023-Pembroke/n02113023_13297.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113023-Pembroke/n02113023_1916.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113023-Pembroke/n02113023_5774.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113023-Pembroke/n02113023_5848.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113023-Pembroke/n02113023_6177.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113023-Pembroke/n02113023_9839.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113186-Cardigan/n02113186_10416.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113186-Cardigan/n02113186_10505.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113186-Cardigan/n02113186_1529.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113186-Cardigan/n02113186_314.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113624-toy_poodle/n02113624_1639.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113624-toy_poodle/n02113624_320.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113624-toy_poodle/n02113624_3344.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113624-toy_poodle/n02113624_3517.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113624-toy_poodle/n02113624_367.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113624-toy_poodle/n02113624_429.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113624-toy_poodle/n02113624_6813.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113624-toy_poodle/n02113624_8940.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113712-miniature_poodle/n02113712_2107.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113712-miniature_poodle/n02113712_2150.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113712-miniature_poodle/n02113712_2585.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113712-miniature_poodle/n02113712_3138.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113712-miniature_poodle/n02113712_322.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113712-miniature_poodle/n02113712_335.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113712-miniature_poodle/n02113712_348.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113712-miniature_poodle/n02113712_6974.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113799-standard_poodle/n02113799_1793.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113799-standard_poodle/n02113799_2073.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113799-standard_poodle/n02113799_2401.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113799-standard_poodle/n02113799_4604.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113799-standard_poodle/n02113799_5720.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113799-standard_poodle/n02113799_6740.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113978-Mexican_hairless/n02113978_1030.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113978-Mexican_hairless/n02113978_1088.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113978-Mexican_hairless/n02113978_143.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113978-Mexican_hairless/n02113978_2189.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113978-Mexican_hairless/n02113978_2979.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02113978-Mexican_hairless/n02113978_3071.jpg
+/Users/hamzajavid/Desktop/FYP/Data/DOGS/Images/n02115641-dingo/n02115641_12541.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_00530.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_00535.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_00736.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_02169.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_02391.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_02417.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_02542.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_03350.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_03870.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_03936.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_04368.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_04593.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_04921.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_04928.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_06416.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_06494.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_06719.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_06726.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_06754.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_06897.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_07141.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_07156.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_07684.jpg
+/Users/hamzajavid/Desktop/FYP/Data/OXFORD/jpg/image_07746.jpg

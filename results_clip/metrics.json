@@ -1,0 +1,43 @@
+{
+  "model": "openai/clip-vit-base-patch32",
+  "zero_shot": true,
+  "threshold_from_validation": 0.2504597306251526,
+  "test": {
+    "objects": {
+      "accuracy": 0.7028,
+      "roc_auc": 0.8151,
+      "paired_accuracy": 0.8433,
+      "pairs": 1800
+    },
+    "cars": {
+      "accuracy": 0.6904,
+      "roc_auc": 0.8516,
+      "paired_accuracy": 0.9028,
+      "pairs": 1728
+    },
+    "dogs": {
+      "accuracy": 0.6789,
+      "roc_auc": 0.7975,
+      "paired_accuracy": 0.9756,
+      "pairs": 1800
+    },
+    "flowers": {
+      "accuracy": 0.8189,
+      "roc_auc": 0.952,
+      "paired_accuracy": 0.9533,
+      "pairs": 900
+    },
+    "cats": {
+      "accuracy": 0.5089,
+      "roc_auc": 0.9545,
+      "paired_accuracy": 1.0,
+      "pairs": 900
+    },
+    "ALL": {
+      "accuracy": 0.6839,
+      "roc_auc": 0.7741,
+      "paired_accuracy": 0.9248,
+      "pairs": 7128
+    }
+  }
+}
