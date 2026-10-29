@@ -1,10 +1,5 @@
 """
 FYP backend: serves the website and runs the trained consistency model locally.
-
-Run from the FYP folder:
-    python3 BACKEND/app.py                                     # picks the model automatically
-    python3 BACKEND/app.py --model results_run4_final/model.pt  # or choose one
-Then open  http://127.0.0.1:8000
 """
 
 import argparse

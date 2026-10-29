@@ -1,6 +1,6 @@
 """
 Build image-caption pairs for the FYP project from REAL dataset labels.
-Run from the FYP folder:  python3 process_all_datasets.py [--skip-coco] [--per-domain 1500]
+Run from thefolder:  python3 process_all_datasets.py 
 """
 
 import argparse

@@ -1,13 +1,10 @@
 """
 Baseline: frozen, pretrained CLIP on the SAME test pairs as the custom model.
 
-CLIP (openai/clip-vit-base-patch32) is not trained on our data at all ("zero-shot").
+CLIP (openai/clip-vit-base-patch32) is not trained on my data at all ("zero-shot").
 Its score for a pair is the cosine similarity of its image and caption embeddings.
 The cut-off between consistent / inconsistent is chosen on the VALIDATION split only,
 then applied once to the test split - the same rule as for the custom model.
-
-Run from the FYP folder (first run downloads about 600 MB):
-    python3 evaluation/evaluate_clip.py
 """
 
 import argparse

@@ -1,12 +1,6 @@
 """
 Move every photo that contains a person OUT of the dataset folders.
-Photos are moved (not deleted) to FYP/removed_people_photos/, keeping their folder
-structure, so nothing is lost if the detector makes a mistake.
-
-Run from the FYP folder:
-    python3 remove_people_photos.py              # checks CARS, DOGS, CATS and the flowers
-    python3 remove_people_photos.py DOGS         # just one folder
-You can stop it with Ctrl+C and run it again later: checked photos are remembered.
+Photos are moved (not deleted) to FYP/removed_people_photos/.
 """
 
 import argparse

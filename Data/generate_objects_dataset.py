@@ -1,6 +1,5 @@
 """
-Generate the synthetic objects dataset for the FYP project.
-Saves into FYP/Data/synthetic_objects/
+Generate the synthetic objects dataset for the project.
 """
 
 import json
