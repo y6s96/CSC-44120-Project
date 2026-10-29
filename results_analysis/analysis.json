@@ -1,0 +1,441 @@
+{
+  "by_domain": {
+    "cars": {
+      "n": 1728,
+      "accuracy": 0.8953,
+      "precision": 0.9032,
+      "recall": 0.8854,
+      "f1": 0.8942,
+      "tp": 765,
+      "fp": 82,
+      "fn": 99,
+      "tn": 782
+    },
+    "cats": {
+      "n": 900,
+      "accuracy": 0.9767,
+      "precision": 0.982,
+      "recall": 0.9711,
+      "f1": 0.9765,
+      "tp": 437,
+      "fp": 8,
+      "fn": 13,
+      "tn": 442
+    },
+    "dogs": {
+      "n": 1800,
+      "accuracy": 0.9572,
+      "precision": 0.9629,
+      "recall": 0.9511,
+      "f1": 0.957,
+      "tp": 856,
+      "fp": 33,
+      "fn": 44,
+      "tn": 867
+    },
+    "flowers": {
+      "n": 900,
+      "accuracy": 0.9411,
+      "precision": 0.911,
+      "recall": 0.9778,
+      "f1": 0.9432,
+      "tp": 440,
+      "fp": 43,
+      "fn": 10,
+      "tn": 407
+    },
+    "objects": {
+      "n": 1800,
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 900,
+      "fp": 0,
+      "fn": 0,
+      "tn": 900
+    },
+    "ALL": {
+      "n": 7128,
+      "accuracy": 0.9534,
+      "precision": 0.9534,
+      "recall": 0.9534,
+      "f1": 0.9534,
+      "tp": 3398,
+      "fp": 166,
+      "fn": 166,
+      "tn": 3398
+    }
+  },
+  "by_claim": {
+    "cars/body type": {
+      "n": 828,
+      "accuracy": 0.9155,
+      "precision": 0.9322,
+      "recall": 0.8961,
+      "f1": 0.9138,
+      "tp": 371,
+      "fp": 27,
+      "fn": 43,
+      "tn": 387
+    },
+    "cars/make": {
+      "n": 900,
+      "accuracy": 0.8767,
+      "precision": 0.8775,
+      "recall": 0.8756,
+      "f1": 0.8765,
+      "tp": 394,
+      "fp": 55,
+      "fn": 56,
+      "tn": 395
+    },
+    "cats/animal": {
+      "n": 900,
+      "accuracy": 0.9767,
+      "precision": 0.982,
+      "recall": 0.9711,
+      "f1": 0.9765,
+      "tp": 437,
+      "fp": 8,
+      "fn": 13,
+      "tn": 442
+    },
+    "dogs/animal": {
+      "n": 900,
+      "accuracy": 0.99,
+      "precision": 0.9911,
+      "recall": 0.9889,
+      "f1": 0.99,
+      "tp": 445,
+      "fp": 4,
+      "fn": 5,
+      "tn": 446
+    },
+    "dogs/breed": {
+      "n": 900,
+      "accuracy": 0.9244,
+      "precision": 0.9341,
+      "recall": 0.9133,
+      "f1": 0.9236,
+      "tp": 411,
+      "fp": 29,
+      "fn": 39,
+      "tn": 421
+    },
+    "flowers/species": {
+      "n": 900,
+      "accuracy": 0.9411,
+      "precision": 0.911,
+      "recall": 0.9778,
+      "f1": 0.9432,
+      "tp": 440,
+      "fp": 43,
+      "fn": 10,
+      "tn": 407
+    },
+    "objects/colour": {
+      "n": 600,
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 300,
+      "fp": 0,
+      "fn": 0,
+      "tn": 300
+    },
+    "objects/position": {
+      "n": 600,
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 300,
+      "fp": 0,
+      "fn": 0,
+      "tn": 300
+    },
+    "objects/shape": {
+      "n": 600,
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "tp": 300,
+      "fp": 0,
+      "fn": 0,
+      "tn": 300
+    }
+  },
+  "errors": {
+    "cars/body type": {
+      "wrongly_accepted": [
+        [
+          "sedan",
+          16
+        ],
+        [
+          "coupe",
+          5
+        ],
+        [
+          "convertible",
+          3
+        ],
+        [
+          "hatchback",
+          2
+        ],
+        [
+          "SUV",
+          1
+        ]
+      ],
+      "wrongly_rejected": [
+        [
+          "coupe",
+          11
+        ],
+        [
+          "convertible",
+          8
+        ],
+        [
+          "estate car",
+          7
+        ],
+        [
+          "sedan",
+          7
+        ],
+        [
+          "hatchback",
+          4
+        ]
+      ]
+    },
+    "cars/make": {
+      "wrongly_accepted": [
+        [
+          "Ford",
+          7
+        ],
+        [
+          "Audi",
+          6
+        ],
+        [
+          "Chevrolet",
+          5
+        ],
+        [
+          "Suzuki",
+          5
+        ],
+        [
+          "Hyundai",
+          5
+        ]
+      ],
+      "wrongly_rejected": [
+        [
+          "Chevrolet",
+          11
+        ],
+        [
+          "Dodge",
+          4
+        ],
+        [
+          "Ford",
+          4
+        ],
+        [
+          "Nissan",
+          3
+        ],
+        [
+          "BMW",
+          3
+        ]
+      ]
+    },
+    "cats/animal": {
+      "wrongly_accepted": [
+        [
+          "dog",
+          8
+        ]
+      ],
+      "wrongly_rejected": [
+        [
+          "cat",
+          13
+        ]
+      ]
+    },
+    "dogs/animal": {
+      "wrongly_accepted": [
+        [
+          "cat",
+          4
+        ]
+      ],
+      "wrongly_rejected": [
+        [
+          "dog",
+          5
+        ]
+      ]
+    },
+    "dogs/breed": {
+      "wrongly_accepted": [
+        [
+          "Great Pyrenees",
+          2
+        ],
+        [
+          "Yorkshire terrier",
+          2
+        ],
+        [
+          "black-and-tan coonhound",
+          2
+        ],
+        [
+          "Old English sheepdog",
+          1
+        ],
+        [
+          "Boston bull",
+          1
+        ]
+      ],
+      "wrongly_rejected": [
+        [
+          "Afghan hound",
+          3
+        ],
+        [
+          "Lakeland terrier",
+          2
+        ],
+        [
+          "Chihuahua",
+          2
+        ],
+        [
+          "Chesapeake Bay retriever",
+          2
+        ],
+        [
+          "Ibizan hound",
+          2
+        ]
+      ]
+    },
+    "flowers/species": {
+      "wrongly_accepted": [
+        [
+          "columbine",
+          3
+        ],
+        [
+          "watercress",
+          3
+        ],
+        [
+          "pink-yellow dahlia",
+          2
+        ],
+        [
+          "english marigold",
+          2
+        ],
+        [
+          "fritillary",
+          2
+        ]
+      ],
+      "wrongly_rejected": [
+        [
+          "daffodil",
+          1
+        ],
+        [
+          "bougainvillea",
+          1
+        ],
+        [
+          "camellia",
+          1
+        ],
+        [
+          "bromelia",
+          1
+        ],
+        [
+          "trumpet creeper",
+          1
+        ]
+      ]
+    },
+    "objects/colour": {
+      "wrongly_accepted": [],
+      "wrongly_rejected": []
+    },
+    "objects/position": {
+      "wrongly_accepted": [],
+      "wrongly_rejected": []
+    },
+    "objects/shape": {
+      "wrongly_accepted": [],
+      "wrongly_rejected": []
+    }
+  },
+  "confidence": {
+    "right": 6796,
+    "wrong": 332,
+    "share_right_confident": 0.9066,
+    "share_wrong_confident": 0.262
+  },
+  "mcnemar": {
+    "cars": {
+      "shared_pairs": 128,
+      "final_acc": 0.9062,
+      "scratch_acc": 0.625,
+      "only_final_right": 43,
+      "only_scratch_right": 7,
+      "chi2": 24.5,
+      "p_value": 7.43098372341413e-07
+    },
+    "dogs": {
+      "shared_pairs": 212,
+      "final_acc": 0.9623,
+      "scratch_acc": 0.5377,
+      "only_final_right": 92,
+      "only_scratch_right": 2,
+      "chi2": 84.27,
+      "p_value": 4.3249849491208547e-20
+    },
+    "flowers": {
+      "shared_pairs": 19,
+      "final_acc": 1.0,
+      "scratch_acc": 0.9474,
+      "only_final_right": 1,
+      "only_scratch_right": 0,
+      "chi2": 0.0,
+      "p_value": 1.0
+    },
+    "objects": {
+      "shared_pairs": 184,
+      "final_acc": 1.0,
+      "scratch_acc": 1.0,
+      "only_final_right": 0,
+      "only_scratch_right": 0,
+      "chi2": 0.0,
+      "p_value": 1.0
+    }
+  }
+}

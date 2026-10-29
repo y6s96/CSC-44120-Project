@@ -41,7 +41,10 @@ class Engine:
         self.vocab = ck["vocab"]
         self.threshold = float(ck.get("threshold", 0.5))
         self.epoch = ck.get("epoch")
-        self.model = ConsistencyModel(len(self.vocab))
+        self.backbone = ck.get("backbone", "small")
+        self.image_size = int(ck.get("image_size", 128))
+        self.imagenet = bool(ck.get("imagenet_norm", False))
+        self.model = ConsistencyModel(len(self.vocab), backbone=self.backbone, pretrained=False)
         self.model.load_state_dict(ck["state_dict"])
         self.model.eval()
         self.options = self._load_options()
@@ -80,7 +83,7 @@ class Engine:
         return (same or hits or [None])[0]
 
     def check(self, image, caption, domain=None, attribute=None):
-        x = preprocess(image).unsqueeze(0)
+        x = preprocess(image, self.image_size, self.imagenet).unsqueeze(0)
         with torch.no_grad():
             img = self.model.encode_image(x)
             txt = self.model.encode_text(torch.tensor([encode(caption, self.vocab)]))
@@ -163,7 +166,11 @@ def results():
     if (folder / "metrics.json").exists():
         m = json.loads((folder / "metrics.json").read_text())
         out["custom"] = {"test_accuracy": m.get("test_accuracy"), "best_epoch": m.get("best_epoch"),
-                         "by_domain": m.get("test_accuracy_by_domain", {})}
+                         "by_domain": m.get("test_accuracy_by_domain", {}),
+                         "history": [{"epoch": h["epoch"], "train_acc": h["train_acc"], "val_acc": h["val_acc"]}
+                                     for h in m.get("history", [])],
+                         "pick_one": m.get("pick_one_accuracy", {}), "backbone": m.get("backbone", "small"),
+                         "image_size": m.get("image_size", 128)}
     if (folder / "test_predictions.csv").exists():
         stats = defaultdict(lambda: [0, 0])
         with open(folder / "test_predictions.csv", newline="") as f:
@@ -173,6 +180,20 @@ def results():
                 stats[k][1] += 1
         out["by_claim"] = [{"domain": d, "attribute": ATTR_LABELS.get(a, a), "accuracy": round(c / n, 4), "pairs": n}
                            for (d, a), (c, n) in sorted(stats.items())]
+        conf = defaultdict(lambda: [0, 0, 0, 0])  # tp, fp, fn, tn per domain
+        with open(folder / "test_predictions.csv", newline="") as f:
+            for r in csv.DictReader(f):
+                y, p = int(r["label"]), int(r["prediction"])
+                i = 0 if (y, p) == (1, 1) else 1 if (y, p) == (0, 1) else 2 if (y, p) == (1, 0) else 3
+                conf[r["domain"]][i] += 1
+                conf["ALL"][i] += 1
+        out["prf"] = {}
+        for d, (tp, fp, fn, tn) in conf.items():
+            pr = tp / (tp + fp) if tp + fp else 0.0
+            rc = tp / (tp + fn) if tp + fn else 0.0
+            out["prf"][d] = {"precision": round(pr, 4), "recall": round(rc, 4),
+                             "f1": round(2 * pr * rc / (pr + rc), 4) if pr + rc else 0.0,
+                             "tp": tp, "fp": fp, "fn": fn, "tn": tn}
     clip_file = ROOT / "results_clip" / "metrics.json"
     if clip_file.exists():
         out["clip"] = json.loads(clip_file.read_text()).get("test")
